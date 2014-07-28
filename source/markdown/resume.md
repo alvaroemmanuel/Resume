@@ -4,14 +4,29 @@
 ### SQA Test Leader
 
 ## Datos personales
-- Nombre: Alvaro Emmanuel Valle Vieyra
-- Ocupación: Senior SQA Test Engineer / Desarrollador
-- Fecha de nacimiento: 20 de diciembre de 1986
-- RFC: VAVA861220E68
-- Estado civil: Unión libre
-- Dirección: Mapimí 65 D-202, Valle Gómez, Cuauhtémoc, C.P. 06240, México D.F.
-- Teléfono: +52 55352 09286
-- Correo electrónico: alvaroemmanuel@gmail.com
+Nombre
+: Alvaro Emmanuel Valle Vieyra
+
+Ocupación
+: Senior SQA Test Engineer / Desarrollador
+
+Fecha de nacimiento
+: 20 de diciembre de 1986
+
+RFC
+: VAVA861220E68
+
+Estado civil
+: Unión libre
+
+Dirección
+: Mapimí 65 D-202, Valle Gómez, Cuauhtémoc, C.P. 06240, México D.F.
+
+Teléfono
+: +52 55352 09286
+
+Correo electrónico
+: alvaroemmanuel@gmail.com
 </header>
 
 <section id="profile">

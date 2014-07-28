@@ -1,12 +1,24 @@
 require 'kramdown'
 require 'pdfkit'
+require 'sass'
 
-source = File.read('resume.md')
+if Gem.win_platform?
+	PDFKit.configure do |config|
+	  config.wkhtmltopdf = 'C:\wkhtmltopdf\bin\wkhtmltopdf.exe'
+	  config.root_url = "http://localhost"
+	  config.verbose = false
+	end
+end
 
-doc = Kramdown::Document.new(source, :auto_ids => false, :parse_block_html => true, :template => 'template.html').to_html
+source = File.read('source/markdown/resume.md')
 
-File.open('resume.html','w') {|file| file.puts doc}
+doc = Kramdown::Document.new(source, :auto_ids => false, :parse_block_html => true, :template => 'source/layouts/resume.html').to_html
 
-%x(htmlbeautifier resume.html)
+File.open('build/html/resume.html','w') {|file| file.puts doc}
 
-PDFKit.new(File.new('resume.html'), :page_size => 'Letter', :margin_top => '0mm', :margin_right => '0mm', :margin_bottom => '0mm', :margin_left => '0mm').to_file('resume.pdf')
+%x(htmlbeautifier build/html/resume.html)
+
+css = Sass::Engine.for_file('source/assets/stylesheets/resume.css.scss', {}).render
+File.open('build/html/stylesheets/resume.css','w') {|file| file.puts css}
+
+PDFKit.new(File.new('build/html/resume.html'), :page_size => 'Letter', :margin_top => '1.2cm', :margin_right => '1.2cm', :margin_bottom => '1.2cm', :margin_left => '1.2cm').to_file('build/pdf/resume.pdf')
