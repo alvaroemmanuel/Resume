@@ -1,6 +1,7 @@
 require 'kramdown'
 require 'pdfkit'
 require 'sass'
+require 'fileutils'
 
 if Gem.win_platform?
 	PDFKit.configure do |config|
@@ -21,4 +22,7 @@ File.open('build/html/resume.html','w') {|file| file.puts doc}
 css = Sass::Engine.for_file('source/assets/stylesheets/resume.css.scss', {}).render
 File.open('build/html/stylesheets/resume.css','w') {|file| file.puts css}
 
-PDFKit.new(File.new('build/html/resume.html'), :page_size => 'Letter', :margin_top => '1.2cm', :margin_right => '1.2cm', :margin_bottom => '1.2cm', :margin_left => '1.2cm').to_file('build/pdf/resume.pdf')
+FileUtils.remove_dir 'build/html/images', force=true
+FileUtils.cp_r 'source/assets/images/', 'build/html/images'
+
+PDFKit.new(File.new('build/html/resume.html'), :page_size => 'Letter', :margin_top => '0mm', :margin_right => '0mm', :margin_bottom => '0mm', :margin_left => '0mm').to_file('build/pdf/resume.pdf')
