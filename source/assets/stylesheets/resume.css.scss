@@ -1,12 +1,53 @@
 @import "normalize";
 
-h1, h2 {
-	clear: both;
-	font: bold 20px/12px 'verdana',sans-serif;
-	border-left: 52px solid #444;
-	color: #444;
-	padding: 1px 0 0 8px;
-	// letter-spacing: -2px;
-	text-transform: uppercase;
-	position: relative;
+$main-color: #444;
+$text: $main-color;
+$white: #fff;
+
+body {
+	line-height: 1.2em;
+	color: $text;
+	background: $white;
+
+	h1, h2 {
+		clear: both;
+		font: bold 20px/12px 'verdana',sans-serif;
+		border-left: 52px solid $main-color;
+		// color: #444;
+		padding: 1px 0 0 8px;
+		text-transform: uppercase;
+		position: relative;
+	}
+
+	h2 {
+		margin-top: 3em;
+	}
+
+	h2:after {
+		content:"";
+		position:absolute;
+	  	width:45px;
+	  	height:45px;
+	  	right:0px;
+	  	top:-15px;
+	  	background-image:url(../images/icons.png);
+	}
+
+	h3 {
+		font-size: 15px;
+		font-weight: normal;
+		margin-top: -10px;
+		padding-left: 60px;
+	}
+
+	section p, h4, ul {
+		margin-left: 60px;
+		margin-right: 60px;
+	}
+
+	header {
+		h2::after {
+			background-position:-90px bottom;
+		}
+	}
 }

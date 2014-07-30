@@ -19,10 +19,10 @@ File.open('build/html/resume.html','w') {|file| file.puts doc}
 
 %x(htmlbeautifier build/html/resume.html)
 
-css = Sass::Engine.for_file('source/assets/stylesheets/resume.css.scss', {}).render
-File.open('build/html/stylesheets/resume.css','w') {|file| file.puts css}
-
 FileUtils.remove_dir 'build/html/images', force=true
 FileUtils.cp_r 'source/assets/images/', 'build/html/images'
 
-PDFKit.new(File.new('build/html/resume.html'), :page_size => 'Letter', :margin_top => '0mm', :margin_right => '0mm', :margin_bottom => '0mm', :margin_left => '0mm').to_file('build/pdf/resume.pdf')
+css = Sass::Engine.for_file('source/assets/stylesheets/resume.css.scss', {}).render
+File.open('build/html/stylesheets/resume.css','w') {|file| file.puts css}
+
+PDFKit.new(File.new('build/html/resume.html'), :page_size => 'Letter', :margin_top => '1in', :margin_right => '1in', :margin_bottom => '1in', :margin_left => '1in').to_file('build/pdf/resume.pdf')

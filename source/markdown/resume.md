@@ -3,6 +3,11 @@
 
 ### SQA Test Leader
 
+## Objetivo
+Superación profesional y económica que me permita adquirir nuevas experiencias laborales que logren consolidar mis conocimientos de TI.
+</header>
+
+<section id="contact">
 ## Datos personales
 Nombre
 : Alvaro Emmanuel Valle Vieyra
@@ -27,11 +32,6 @@ Teléfono
 
 Correo electrónico
 : alvaroemmanuel@gmail.com
-</header>
-
-<section id="profile">
-## Objetivo
-Superación profesional y económica que me permita adquirir nuevas experiencias laborales que logren consolidar mis conocimientos de TI.
 </section>
 
 <section id="education">
