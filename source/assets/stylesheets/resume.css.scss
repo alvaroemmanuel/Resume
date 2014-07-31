@@ -3,6 +3,8 @@
 $main-color: #444;
 $text: $main-color;
 $white: #fff;
+$about-bg: #fbfbfb;
+$about-border: #fff #f3f3f3 #e8e8e8;
 
 body {
 	line-height: 1.2em;
@@ -45,9 +47,75 @@ body {
 		margin-right: 60px;
 	}
 
+	p {
+		text-align: justify;
+		font-size: 13px;
+	}
+
 	header {
+		h2 {
+			display: none;
+		}
+
+		p {
+			clear: left;
+			margin: 40px auto;
+			padding: 20px 25px;
+			max-width: 400px;
+			background: $about-bg;
+			border: 1px solid #f3f3f3;
+			border-radius: 8px;
+			position: relative;
+			border-width: 0 1px 1px;
+			border-color: $about-border;
+			line-height: 1.6em;
+		}
+	}
+
+	#contact {
 		h2::after {
-			background-position:-90px bottom;
+			background-position: -90px bottom;
+		}
+
+		dl {
+			font-size: 13px;
+			line-height: 1.2em;
+			margin-left: 60px;
+			margin-right: 60px;
+
+			dt {
+				float: left;
+			    clear: left;
+			    width: 30%;
+			    text-align: right;
+			    font-weight: bold;
+			    color: $text;
+			}
+			dt::after {
+				content: ":";
+			}
+			dd {
+				margin: 0 0 0 32%;
+				padding: 0 0 0.5em 0;
+			}
+		}
+	}
+
+	#skills {
+		h2::after {
+			background-position: left top;
+		}
+	}
+
+	#education {
+		h2::after {
+			background-position: right top;
+		}
+	}
+
+	#experience {
+		h2::after {
+			background-position: -45px top;
 		}
 	}
 }
