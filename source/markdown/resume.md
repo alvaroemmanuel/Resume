@@ -37,23 +37,44 @@ Correo electrónico
 <section id="education">
 ## Formación académica
 
-#### UADM | 2010 - Presente
+<article>
+<header>
+#### UADM
+2010 - Presente
+</header>
 - Ing. Desarrollo de software (IDS)
+</article>
 
-#### IPN ESCOM | 2006 - 2009
+<article>
+<header>
+#### IPN ESCOM
+2006 - 2009
+</header>
 - Ing. Sistemas Computacionales (inconclusa)
+</article>
 
-#### IPN CECyT 9 "Juan de Dios Bátiz" | 2001 - 2004
+<article>
+<header>
+#### IPN CECyT 9 "Juan de Dios Bátiz"
+2001 - 2004
+</header>
 - Técnico en Sistemas Digitales
 - Certificado parcial de educación media superior
+</article>
 
-#### Dirección General del Bachillerato | 2005?
+<article>
+<header>
+#### Dirección General del Bachillerato
+2005?
+</header>
 - Certificado de educación media superior
+</article>
 </section>
 
 <section id="experience">
 ## Experiencia
 
+<article>
 #### Abatta Systems | 2010
 Desarrollo de funcionalidad para el administrador de documentos BostonDM utilizando web services y Visual Studio Tools for Office 2005 y 2008.
 
@@ -62,19 +83,25 @@ Implementación de módulos para el sistema de Nominaciones de Gas de GDL basado
 Planeación y ejecución de pruebas de integración de las herramientas de trabajo con el VCS Git y la aplicación web Gitorious utilizando un servidor virtual con VMWare y Ubuntu Server 9.10.
 
 Versionado de código y control de proyectos utilizando Microsoft SharePoint y Subversion.
+</article>
 
+<article>
 #### Ondore | 2009
 Desarrollo de módulos y reportes para el sistema de administración de IdeasRadio de Telcel, así como implementación de funciones de envío de SMS y creación dinámica de Listas de Reproducción Personalizadas en el servicio IdeasRadio de Telcel por medio del web-API en .NET utilizando el framework 3.5, VisualStudio 2008, MS SQL Server 2000 con Enterprise Library y LINQ.
 
 Control y revisión de proyectos y código utilizando las herramientas Google Apps, BugTracker.Net y el VCS (Version Control System) Subversion para el entorno de desarrollo.
+</article>
 
+<article>
 #### Software Integral de Sistemas de Cómputo | 2007 - 2009
 Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las plataformas Visual Basic 6.0 y .NET (C#/Gtk# sobre Mono y .NET Framework 2.0) con BD’s Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL y SQLite,  con entorno de trabajo basado en VisualStudio 2005 y MonoDevelop, utilizando la metodología XP (Extreme Programming), trabajando en los proyectos:
 
 - Sistema de Medicina Preventiva del Hospital ABC Sta. Fe
 - Sistema Médico Integral para consultorio del Dr. Gabriel Rodríguez Weber
 - Sistema Médico Integral para consultorio del Dr. José Montes Montes
+</article>
 
+<article>
 #### Gobtec | 2005 - 2007
 Desarrollador de Sistemas de Información Geográfica en las plataformas Visual Basic 6.0, .NET (Visual C#), basado en componentes COM de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
 
@@ -83,7 +110,9 @@ Desarrollador de Sistemas de Información Geográfica en las plataformas Visual 
 - GeoVoto (Sistema para análisis geo-político)
 - SGAM (Sistema de Gestión y Administración Municipal para la SEDESOL)
 - GeoGobierno (Versión base)
+</article>
 
+<article>
 #### Mapdata | 2004 - 2005
 Desarrollador y Administrador Web sobre plataformas Windows con herramientas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005 y bases de datos MS SQLServer 2000/2005 sobre ADO.NET, trabajando en los proyectos:
 
@@ -91,10 +120,13 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - Sitio de GeoVoto
 - Desarrollo de servicios de _bulk mail delivery_
 - Implementación y administración del sistema de control de versiones SVN para código fuente y cartografía
+</article>
 
+<article>
 #### Proyectos personales alternos
 - Rock N' Geek ([http://rockngeek.net/](http://rockngeek.net/)): Blog y Podcast sobre tecnología, cultura y vida digital.
 - Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
+</article>
 </section>
 
 <section id="skills">

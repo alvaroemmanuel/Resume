@@ -91,9 +91,11 @@ body {
 			    font-weight: bold;
 			    color: $text;
 			}
+
 			dt::after {
 				content: ":";
 			}
+
 			dd {
 				margin: 0 0 0 32%;
 				padding: 0 0 0.5em 0;
@@ -121,5 +123,58 @@ body {
 
 	ul {
 		font-size: 13px;
+	}
+
+	#education {
+		article {
+			margin-left: 60px;
+			margin-right: 60px;
+			padding-bottom: 75px;
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+			border-bottom-color: $main-color;
+
+			header {
+				margin: 0;
+				width: 45%;
+				float: left;
+
+				h4 {
+					margin: 0;
+					font-size: 14px;
+					font-weight: bold;
+				}
+
+				p {
+					margin: 0;
+					padding: 0;
+					clear: left;
+					max-width: 50%;
+					background: transparent;
+					border: 0;
+					border-radius: 0;
+					position: relative;
+					border-width: 0;
+					border-color: transparent;
+					line-height: 1.2em;
+					font-style: italic;
+					font-size: 13px;
+				}
+			}
+
+			ul {
+				margin: 0;
+				padding: 0 0 0 5%;
+				width: 50%;
+				float: right;
+			}
+		}
+
+		article:last-child {
+			border-bottom-style: none;
+			border-bottom-width: 0;
+			border-bottom-color: transparent;
+			padding-bottom: 0;
+		}
 	}
 }
