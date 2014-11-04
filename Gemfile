@@ -1,5 +1,6 @@
-source "https://rubygems.org"
-gem "kramdown"
-gem "pdfkit"
-gem "htmlbeautifier"
-gem "sass"
+source 'https://rubygems.org'
+
+gem 'kramdown'
+gem 'pdfkit'
+gem 'htmlbeautifier'
+gem 'sass'

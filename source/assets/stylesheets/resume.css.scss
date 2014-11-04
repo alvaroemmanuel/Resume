@@ -1,4 +1,5 @@
 @import "normalize";
+@import "fonts";
 
 $main-color: #444;
 $text: $main-color;
@@ -15,7 +16,6 @@ body {
 		clear: both;
 		font: bold 20px/12px 'verdana',sans-serif;
 		border-left: 52px solid $main-color;
-		// color: #444;
 		padding: 1px 0 0 8px;
 		text-transform: uppercase;
 		position: relative;
@@ -26,13 +26,16 @@ body {
 	}
 
 	h2:after {
-		content:"";
-		position:absolute;
-	  	width:45px;
-	  	height:45px;
-	  	right:0px;
-	  	top:-15px;
-	  	background-image:url(../images/icons.png);
+		font-family: "resume-font" !important;
+		font-style: normal !important;
+		font-weight: normal !important;
+		font-variant: normal !important;
+		text-transform: none !important;
+		speak: none;
+		margin: 0 5px 0 0;
+		color: $text !important;
+		float: right;
+		font-size: 24px;
 	}
 
 	h3 {
@@ -42,7 +45,7 @@ body {
 		padding-left: 60px;
 	}
 
-	section p, h4, ul {
+	section p, h4, h5, ul {
 		margin-left: 60px;
 		margin-right: 60px;
 	}
@@ -72,9 +75,13 @@ body {
 		}
 	}
 
+	div#main {
+		padding-right: 60px;
+	}
+
 	#contact {
-		h2::after {
-			background-position: -90px bottom;
+		h2:after {
+			content: "f";
 		}
 
 		dl {
@@ -91,9 +98,11 @@ body {
 			    font-weight: bold;
 			    color: $text;
 			}
+
 			dt::after {
 				content: ":";
 			}
+
 			dd {
 				margin: 0 0 0 32%;
 				padding: 0 0 0.5em 0;
@@ -103,23 +112,154 @@ body {
 
 	#skills {
 		h2::after {
-			background-position: left top;
+			content: "d";
 		}
 	}
 
 	#education {
 		h2::after {
-			background-position: right top;
+			content: "c"
 		}
 	}
 
 	#experience {
 		h2::after {
-			background-position: -45px top;
+			content: "a";
 		}
 	}
 
 	ul {
 		font-size: 13px;
+	}
+
+	#education {
+		article {
+			margin-left: 60px;
+			// margin-right: 60px;
+			padding-bottom: 60px;
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+			border-bottom-color: $main-color;
+
+			header {
+				margin: 0;
+				width: 35%;
+				float: left;
+
+				h4 {
+					margin: 0;
+					font-size: 14px;
+					font-weight: bold;
+				}
+
+				p {
+					margin: 0;
+					padding: 0;
+					clear: left;
+					max-width: 60%;
+					background: transparent;
+					border: 0;
+					border-radius: 0;
+					position: relative;
+					border-width: 0;
+					border-color: transparent;
+					line-height: 1.2em;
+					font-style: italic;
+					font-size: 13px;
+				}
+			}
+
+			ul {
+				list-style: none;
+				margin: 0;
+				padding: 0 0 0 5%;
+				width: 60%;
+				float: right;
+
+				li {
+					padding-left: 1em;
+					text-indent: -1em;
+				}
+
+				li:before {
+					content: "+";
+					font-weight: bold;
+					padding-right: 5px;
+				}
+			}
+		}
+
+		article:last-child {
+			padding-bottom: 35px;
+			border-bottom-style: none;
+			border-bottom-width: 0;
+			border-bottom-color: transparent;
+		}
+	}
+
+	#experience {
+		article {
+			padding-bottom: 60px;
+			margin-left: 60px;
+			border-bottom-style: solid;
+			border-bottom-width: 1px;
+			border-bottom-color: $main-color;
+
+			header {
+				h4 {
+					margin: 0;
+					font-size: 14px;
+					font-weight: bold;
+				}
+
+				h5 {
+					margin: 0;
+					font-weight: bold;
+				}
+
+				p {
+					margin: 0;
+					padding: 0;
+					clear: left;
+					max-width: 60%;
+					background: transparent;
+					border: 0;
+					border-radius: 0;
+					position: relative;
+					border-width: 0;
+					border-color: transparent;
+					line-height: 1.2em;
+					font-style: italic;
+					font-size: 13px;
+				}
+			}
+
+			ul {
+				list-style: none;
+				margin: 0;
+				padding: 0 0 0 15%;
+				margin-right: 60px;
+				text-align: justify;
+
+				li {
+					padding-left: 1em;
+					text-indent: -1em;
+					padding-bottom: 1em;
+				}
+
+				li:before {
+					content: "+";
+					font-weight: bold;
+					padding-right: 5px;
+				}
+			}
+		}
+
+		article:last-child {
+			border-bottom-style: none;
+			border-bottom-width: 0;
+			border-bottom-color: transparent;
+			padding-bottom: 0px;
+		}
 	}
 }
