@@ -41,7 +41,7 @@ Correo electrónico
 <header>
 #### Certificaciones
 </header>
-- ITIL® Foundation Certificate in IT Service Management (Certificate number: GR750128406AV)
+- ITIL® Foundation Certificate in IT Service Management<br>(Certificate number: GR750128406AV)
 </article>
 
 <article>
