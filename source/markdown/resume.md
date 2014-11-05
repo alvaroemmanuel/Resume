@@ -35,47 +35,97 @@ Correo electrónico
 : alvaroemmanuel@gmail.com
 </section>
 
-<section id="education">
-## Formación académica
-<article>
+<section id="skills">
+## Habilidades profesionales
+<div class="inner-wrapper">
+<article id="social-skills">
+<header>
+#### Sociales
+</header>
+- Trabajo en equipo
+- Orientado a objetivos
+- Excelentes habilidades de comunicación oral y escrita
+- Interacción intercultural
+</article>
+
+<article id="competencies">
+<header>
+#### Competencias
+</header>
+- Administración de equipos de trabajo interculturales y distribuídos
+- Generación de planes de proyecto
+- Análisis de requerimientos
+- Generación de estrategias para proyectos y pruebas
+- Diseño de soluciones de sistemas
+- Diseño de pruebas
+</article>
+</div>
+</section>
+
+<section id="languages">
+## Idiomas
+<div class="inner-wrapper">
+<article id="spanish">
+Español
+: Nativo
+</article>
+
+<article id="english">
+<header>
+#### Inglés
+</header>
+
+<div class="table">
+<div class="theader">
+<div class="cell">
+Comprensión (Escuchar/Leer)
+</div>
+<div class="cell">
+Comunicación verbal
+</div>
+<div class="cell">
+Comunicación escrita
+</div>
+</div>
+<div class="row">
+<div class="cell">
+90%
+</div>
+<div class="cell">
+90%
+</div>
+<div class="cell">
+90%
+</div>
+</div>
+</div>
+
+</article>
+</div>
+</section>
+
+<section id="training">
+## Cursos y certificaciones
+<div class="inner-wrapper">
+<article id="certifications">
 <header>
 #### Certificaciones
 </header>
-- ITIL® Foundation Certificate in IT Service Management<br>(Certificate number: GR750128406AV)
+- ITIL® Foundation Certificate in IT Service Management <br>
+  Certificate number: GR750128406AV
+- Duolingo Proficiency Exam in English: Expert <br>
+  TOEFL iBT® score equivalence: 117 - 120
 </article>
 
-<article>
+<article id="courses">
 <header>
-#### UADM
-2010 - Presente
+#### Cursos
 </header>
-- Ing. Desarrollo de software (IDS)
+- HP Quality Center Fundamentals
+- Introduction to HP QuickTest Professional (QTP)
+- Introduction to MapInfo Professional
 </article>
-
-<article>
-<header>
-#### IPN ESCOM
-2006 - 2009
-</header>
-- Ing. Sistemas Computacionales (inconclusa)
-</article>
-
-<article>
-<header>
-#### IPN CECyT 9 "Juan de Dios Bátiz"
-2001 - 2004
-</header>
-- Técnico en Sistemas Digitales
-- Certificado parcial de educación media superior
-</article>
-
-<article>
-<header>
-#### Dirección General del Bachillerato
-2005
-</header>
-- Certificado de educación media superior
-</article>
+</div>
 </section>
 
 <section id="experience">
@@ -176,8 +226,9 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 </article>
 </section>
 
-<section id="skills">
+<section id="technical">
 ## Conocimientos técnicos
+<div class="inner-wrapper">
 - Instalación y administración de sistemas operativos Linux/Unix (openSUSE, Novel SE Desktop/Server, RHEL, Debian, Ubuntu, Mac OS X, etc.)
 - Instalación y administración de sistemas operativos Windows 8, 7, 2000, XP, así como Windows Server 2003 y 2012
 - Conocimiento de lenguajes de programación de la plataforma .NET y Xamarin (Mono)
@@ -201,5 +252,42 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - Implantación, uso y administración de sistemas de control de versiones, tanto cliente-servidor (Subversion), como distribuidos (Git), para la organización e integración del código fuente.
 - Desarrollo de contenidos gráficos usando Adobe Illustrator, Photoshop y Fireworks
 - Planeación y desarrollo de sistemas basados en estándares como UML y diseño con patrones (Modelo-Vista-Controlador)
+</div>
+</section>
+
+<section id="education">
+## Formación académica
+<article>
+<header>
+#### UADM
+2010 - Presente
+</header>
+- Ing. Desarrollo de software (IDS)
+</article>
+
+<article>
+<header>
+#### IPN ESCOM
+2006 - 2009
+</header>
+- Ing. Sistemas Computacionales (inconclusa)
+</article>
+
+<article>
+<header>
+#### IPN CECyT 9 "Juan de Dios Bátiz"
+2001 - 2004
+</header>
+- Técnico en Sistemas Digitales
+- Certificado parcial de educación media superior
+</article>
+
+<article>
+<header>
+#### Dirección General del Bachillerato
+2005
+</header>
+- Certificado de educación media superior
+</article>
 </section>
 </div>
