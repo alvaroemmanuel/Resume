@@ -172,13 +172,13 @@ div.inner-wrapper {
 
 #contact {
 	h2:after {
-		content: "f";
+		content: "p";
 	}
 }
 
 #skills {
 	h2:after {
-		content: "i";
+		content: "s";
 	}
 
 	article {
@@ -207,7 +207,7 @@ div.inner-wrapper {
 
 #languages {
 	h2:after {
-		content: "e";
+		content: "l";
 	}
 
 	article {
@@ -251,7 +251,7 @@ div.inner-wrapper {
 
 #training {
 	h2:after {
-		content: "h";
+		content: "c";
 	}
 
 	article {
@@ -290,13 +290,13 @@ div.inner-wrapper {
 
 #technical {
 	h2:after {
-		content: "d";
+		content: "t";
 	}
 }
 
 #education {
 	h2:after {
-		content: "c"
+		content: "e"
 	}
 
 	article {
@@ -351,7 +351,7 @@ div.inner-wrapper {
 
 #experience {
 	h2:after {
-		content: "a";
+		content: "j";
 	}
 
 	article {
@@ -401,5 +401,11 @@ div.inner-wrapper {
 		border-bottom-width: 0;
 		border-bottom-color: transparent;
 		padding-bottom: 0px;
+	}
+}
+
+#hobbies {
+	h2:after {
+		content: "a"
 	}
 }

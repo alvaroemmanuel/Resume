@@ -135,23 +135,23 @@ Comunicación escrita
 #### TCS (The Nielsen Company)
 2010 - 2014
 </header>
-Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Shore, análisis y entendimiento de requerimientos de usuario, estimación y planeación de pruebas, diseño y ejecución de casos de prueba, colaboración cercana con usuarios de negocio para definir y complementar el alcance de las aplicaciones, uso de HP ALM (Quality Center) para la gestión del ciclo de vida de testing.
+Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Shore, análisis y entendimiento de requerimientos de usuario, estimación y planeación de estrategias para proyectos de pruebas, diseño y ejecución de casos de prueba, colaboración cercana con usuarios de negocio para definir y complementar el alcance de las aplicaciones, uso de HP ALM (Quality Center) para la gestión del ciclo de vida de testing.
 
 ##### Principales logros
 
-- Dirigir el proyecto de testing para el desarrollo e implementación de la fábrica europea en América Latina, liderando un equipo de hasta cinco personas ubicadas en instalaciones de Off-shore (Chennai, India), interactuando con un equipo global integrado por líderes de más de diez países.
-- Colaborar en la iniciativa de Mejora de Procesos de Negocio (BPI) para el equipo de T&V en América Latina.
-- Guiar y dar seguimiento a nuevos miembros del equipo, así como apoyar en proyectos de emergencia (Prioridad 1 o Severidad 1), de acuerdo a las necesidades de la compañía.
-- Colaborar con el equipo para mejorar el proceso de pruebas, favoreciendo las relaciones entre nosotros y el resto de las áreas de IT, consolidando  el reconocimiento del trabajo del equipo de SQA.
-- Conducir la iniciativa de estandarización de estructura del Quality Center para América Latina, para establecer una base común de configuración de ambientes de pruebas y homologar la base de conocimiento del equipo, facilitando la curva de aprendizaje para miembros nuevos y actuales.
+- Dirigir el proyecto de testing para el desarrollo e implementación de la fábrica europea en América Latina, liderando un equipo de cinco personas ubicadas en instalaciones de Off-shore (Chennai, India), interactuando con un equipo global integrado por líderes de más de diez países.
+- Conducir el esfuerzo de testing (análisis, diseño y ejecución) del primer proyecto de Nielsen liberado con QA para América Latina.
+- Conducir la iniciativa de estandarización de estructura del Quality Center (HP ALM) en América Latina, para establecer una base común de configuración de ambientes de pruebas y homologar la base de conocimiento del equipo, facilitando la curva de aprendizaje para miembros nuevos y actuales.
 - Conducir la iniciativa de estandarización de diseño de Test Cases para establecer en el equipo una forma común de escritura de casos de prueba, usando (o desarrollando) un Lenguaje de Descripción de Pruebas común, como Gherkin.
 - Conducir el esfuerzo para consolidar el uso de Test Templates como la unidad básica para la creación de casos de prueba entre los miembros del equipo.
-- Conducir el esfuerzo de testing (análisis, diseño y ejecución) del primer proyecto de Nielsen liberado con QA para Latino América.
-- Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats and DQC), involucrando de 6 a 7 sistemas diferentes.
-- Ayudar a reducir los tiempos de pruebas realizando validaciones masivas de datos a través de SQL y programación.
-- Proveer soporte técnico respecto a la implementación (ambiente de pruebas) y la infraestructura para los primeros proyectos de Testing & Validation en América Latina.
-- Continua investigación de herramientas y tecnologías para mejorar el proceso de pruebas, como Selenium, Watir, Cucumber, RSpec y AutoIT, entre otros.
+- Colaborar en la iniciativa de Mejora de Procesos de Negocio (BPI) para el equipo de T&V en América Latina.
+- Ayudar a reducir los tiempos de pruebas realizando validaciones masivas de datos a través de SQL, herramientas ETL y programación.
+- Guiar y dar seguimiento a nuevos miembros del equipo, así como apoyar en proyectos de emergencia (High Priority), de acuerdo a las necesidades de la compañía.
+- Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats y DQC), involucrando de 6 a 7 sistemas diferentes.
 - Apoyar en la creación del checklist de estándares de User Experience (UX) para definir los elementos comunes a probar con respecto a la interfaz de usuario para las aplicaciones web de América Latina.
+- Colaborar con el equipo para mejorar el proceso de pruebas, favoreciendo las relaciones entre nosotros y el resto de las áreas de IT, consolidando  el reconocimiento del trabajo del equipo de SQA.
+- Proveer soporte técnico respecto a la implementación (ambiente de pruebas) y la infraestructura para los primeros proyectos de Testing & Validation en América Latina.
+- Continua investigación de herramientas y tecnologías para mejorar el proceso de pruebas, como Selenium, Watir, Cucumber, RAutomation y AutoIT, entre otros.
 </article>
 
 <article>
@@ -163,7 +163,7 @@ Desarrollo de funcionalidad para el administrador de documentos BostonDM utiliza
 
 Implementación de módulos para el sistema de Nominaciones de Gas de GDL basado en el Framework Ding para .NET.
 
-Planeación y ejecución de pruebas de integración de las herramientas de trabajo con el VCS Git y la aplicación web Gitorious utilizando un servidor virtual con VMWare y Ubuntu Server 9.10.
+Planeación y ejecución de pruebas de integración de las herramientas de trabajo con el SCM Git y la aplicación web Gitorious utilizando un servidor virtual con VMWare y Ubuntu Server 9.10.
 
 Versionado de código y control de proyectos utilizando Microsoft SharePoint y Subversion.
 </article>
@@ -173,9 +173,9 @@ Versionado de código y control de proyectos utilizando Microsoft SharePoint y S
 #### Ondore
 2009
 </header>
-Desarrollo de módulos y reportes para el sistema de administración de IdeasRadio de Telcel, así como implementación de funciones de envío de SMS y creación dinámica de Listas de Reproducción Personalizadas en el servicio IdeasRadio de Telcel por medio del web-API en .NET utilizando el framework 3.5, VisualStudio 2008, MS SQL Server 2000 con Enterprise Library y LINQ.
+Desarrollo de módulos y reportes para el sistema de administración de IdeasRadio de Telcel, así como implementación de funciones de envío de SMS y creación dinámica de Listas de Reproducción Personalizadas en el servicio IdeasRadio de Telcel por medio del Web-API en .NET utilizando la versión 3.5 del framework, VisualStudio 2008, MS SQL Server 2000 con Enterprise Library y LINQ.
 
-Control y revisión de proyectos y código utilizando las herramientas Google Apps, BugTracker.Net y el VCS (Version Control System) Subversion para el entorno de desarrollo.
+Control y revisión de proyectos y código utilizando las herramientas de Google Apps, BugTracker.Net y el SCM Subversion para el entorno de desarrollo.
 </article>
 
 <article>
@@ -183,9 +183,9 @@ Control y revisión de proyectos y código utilizando las herramientas Google Ap
 #### Software Integral de Sistemas de Cómputo
 2007 - 2009
 </header>
-Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las plataformas Visual Basic 6.0 y .NET (C#/Gtk# sobre Mono y .NET Framework 2.0) con BD’s Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL y SQLite,  con entorno de trabajo basado en VisualStudio 2005 y MonoDevelop, utilizando la metodología XP (Extreme Programming), trabajando en los proyectos:
+Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las plataformas Visual Basic 6.0 y .NET (C#/Gtk# sobre Mono y .NET Framework 2.0) con BD's Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL y SQLite,  con entorno de trabajo basado en VisualStudio 2005 y MonoDevelop, utilizando la metodología XP (Extreme Programming), trabajando en los proyectos:
 
-- Sistema de Medicina Preventiva del Hospital ABC Sta. Fe
+- Sistema de Medicina Preventiva del Hospital ABC Santa Fe
 - Sistema Médico Integral para consultorio del Dr. Gabriel Rodríguez Weber
 - Sistema Médico Integral para consultorio del Dr. José Montes Montes
 </article>
@@ -199,7 +199,7 @@ Desarrollador de Sistemas de Información Geográfica en las plataformas Visual 
 
 - GeoAgua (Sistema para la administración de agua del gobierno de Sinaloa)
 - GeoAgrox (SAGARPA)
-- GeoVoto (Sistema para análisis geo-político)
+- GeoVoto (Sistema para análisis geográfico/electoral)
 - SGAM (Sistema de Gestión y Administración Municipal para la SEDESOL)
 - GeoGobierno (Versión base)
 </article>
@@ -214,15 +214,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - Sitio corporativo
 - Sitio de GeoVoto
 - Desarrollo de servicios de _bulk mail delivery_
-- Implementación y administración del sistema de control de versiones SVN para código fuente y cartografía
-</article>
-
-<article>
-<header>
-#### Proyectos personales alternos
-</header>
-- Rock N' Geek ([http://rockngeek.net/](http://rockngeek.net/)): Blog y Podcast sobre tecnología, cultura y vida digital.
-- Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
+- Implementación y administración del sistema de control de versiones Subversion para código fuente y cartografía
 </article>
 </section>
 
@@ -289,5 +281,11 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 </header>
 - Certificado de educación media superior
 </article>
+</section>
+
+<section id="hobbies">
+## Proyectos alternos y redes sociales
+- Rock N' Geek ([http://rockngeek.net/](http://rockngeek.net/)): Blog y Podcast sobre tecnología, cultura y vida digital.
+- Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
 </section>
 </div>
