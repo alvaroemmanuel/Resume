@@ -221,8 +221,11 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 <section id="technical">
 ## Conocimientos técnicos
 <div class="inner-wrapper">
-- Instalación y administración de sistemas operativos Linux/Unix (openSUSE, Novel SE Desktop/Server, RHEL, Debian, Ubuntu, Mac OS X, etc.)
-- Instalación y administración de sistemas operativos Windows 8, 7, 2000, XP, así como Windows Server 2003 y 2012
+#### Sistemas Operativos
+- OS X
+- Linux/Unix (RHEL/CentOS/Fedora, Debian, Ubuntu, openSUSE, Arch Linux)
+- Windows (Desktop/Server)
+
 - Conocimiento de lenguajes de programación de la plataforma .NET y Xamarin (Mono)
 - Ruby/RoR
 - Python
