@@ -221,32 +221,92 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 <section id="technical">
 ## Conocimientos técnicos
 <div class="inner-wrapper">
+<div class="float-left">
+<article id="os">
+<header>
 #### Sistemas Operativos
+</header>
 - OS X
-- Linux/Unix (RHEL/CentOS/Fedora, Debian, Ubuntu, openSUSE, Arch Linux)
-- Windows (Desktop/Server)
+- Linux/Unix (RHEL, Debian, Ubuntu, openSUSE)
+- Windows (Desktop / Server)
+</article>
 
-- Conocimiento de lenguajes de programación de la plataforma .NET y Xamarin (Mono)
-- Ruby/RoR
-- Python
-- C++
-- Qt framework
-- Gtk y Gtk-sharp
-- Visual Basic 6.0
-- VBA
-- Bases de datos SQL Server 2000/2005/2008/2012, MySQL, PostgreSQL, SQLite3, Oracle 8i
+<article id="frameworks">
+<header>
+#### Frameworks
+</header>
+- Ruby On Rails
+- .NET Framework
+- Qt
+- GTK/GTK+
+- JQuery
+- Bourbon / Bootstrap / Foundation
+- Cucumber/Gherkin
+- RAutomation
+- AutoIT
+- PyWinAuto
+- Selenium
+- Watir
+</article>
+</div>
+
+<div class="float-left">
+<article id="software">
+<header>
+#### Software
+</header>
+- HP ALM (Quality Center)
+- WBS Chart Pro
 - MS Project
 - MS Visio
-- MS Office (Word, Excel y PowerPoint)
-- OpenOffice.org y LibreOffice
+- MS Office (Word, Excel, PowerPoint)
+- LibreOffice
+- Adobe CC (Illustrator, Photoshop)
+- Git
+- Herramientas ETL (Pentaho y Talend)
+</article>
+
+<article id="bd">
+<header>
+#### Bases de Datos
+</header>
+- SQL Server
+- Oracle 8i
+- SQLite3
+- MySQL
+- PostgreSQL
+- MongoDB
+</article>
+</div>
+
+<div class="float-left">
+<article id="programming-lang">
+<header>
+#### Lenguajes de programación y diseño
+</header>
+- Ruby
+- C# con .NET y Xamarin / Mono
+- C++
+- Python
+- Visual Basic 6.0 / VBA
 - HTML5
-- CSS3 (incluyendo frameworks como Bourbon y Foundation)
+- CSS3
+- SASS
 - Javascript
-- Manejo de servidores web Apache, IIS, Mongrel, Unicorn y Thin
-- Desarrollo front end con jQuery y AJAX
-- Implantación, uso y administración de sistemas de control de versiones, tanto cliente-servidor (Subversion), como distribuidos (Git), para la organización e integración del código fuente.
-- Desarrollo de contenidos gráficos usando Adobe Illustrator, Photoshop y Fireworks
-- Planeación y desarrollo de sistemas basados en estándares como UML y diseño con patrones (Modelo-Vista-Controlador)
+- UML y desarrollo con MVC
+</article>
+
+<article id="infra">
+<header>
+#### Infraestructura
+</header>
+- IIS
+- Apache
+- Phusion Passenger
+- OpenStack
+- VMWare vSphere
+</article>
+</div>
 </div>
 </section>
 
@@ -254,7 +314,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 ## Formación académica
 <article>
 <header>
-#### UADM
+#### UnAD México
 2010 - Presente
 </header>
 - Ing. Desarrollo de software (IDS)

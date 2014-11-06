@@ -289,8 +289,38 @@ div.inner-wrapper {
 }
 
 #technical {
+	padding-top: 1em;
+
 	h2:after {
 		content: "t";
+	}
+
+	article {
+		padding-bottom: 1em;
+
+		header {
+			h4 {
+				margin-left: 0;
+				margin-right: 0;
+				font-size: 14px;
+				font-weight: bold;
+			}
+		}
+
+		ul {
+			li {
+				padding-bottom: 0.5em;
+			}
+
+			li:last-child {
+				padding-bottom: 0;
+			}
+		}
+	}
+
+	div.float-left {
+		width: 33.33333333333333%;
+		float: left;
 	}
 }
 
@@ -386,7 +416,7 @@ div.inner-wrapper {
 		}
 
 		ul {
-			padding: 0 0 0 15%;
+			padding: 0 0 0 10%;
 			margin-right: 60px;
 			text-align: justify;
 
