@@ -145,7 +145,7 @@ Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Sho
 - Conducir la iniciativa de estandarización de diseño de Test Cases para establecer en el equipo una forma común de escritura de casos de prueba, usando (o desarrollando) un Lenguaje de Descripción de Pruebas común, como Gherkin.
 - Conducir el esfuerzo para consolidar el uso de Test Templates como la unidad básica para la creación de casos de prueba entre los miembros del equipo.
 - Colaborar en la iniciativa de Mejora de Procesos de Negocio (BPI) para el equipo de T&V en América Latina.
-- Ayudar a reducir los tiempos de pruebas realizando validaciones masivas de datos a través de SQL, herramientas ETL y programación.
+- Reducción de los tiempos de pruebas realizando validaciones masivas de datos con SQL, herramientas ETL y programación.
 - Guiar y dar seguimiento a nuevos miembros del equipo, así como apoyar en proyectos de emergencia (High Priority), de acuerdo a las necesidades de la compañía.
 - Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats y DQC), involucrando de 6 a 7 sistemas diferentes.
 - Apoyar en la creación del checklist de estándares de User Experience (UX) para definir los elementos comunes a probar con respecto a la interfaz de usuario para las aplicaciones web de América Latina.
