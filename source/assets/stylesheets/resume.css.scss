@@ -321,6 +321,7 @@ div.inner-wrapper {
 	div.float-left {
 		width: 33.33333333333333%;
 		float: left;
+		padding-bottom: 2.5em;
 	}
 }
 
@@ -437,5 +438,75 @@ div.inner-wrapper {
 #hobbies {
 	h2:after {
 		content: "a"
+	}
+
+	article {
+		header {
+			h4 {
+				margin-left: 0;
+				margin-right: 0;
+				font-size: 14px;
+				font-weight: bold;
+			}
+		}
+
+		ul {
+			text-align: justify;
+
+			li {
+				padding-bottom: 0.5em;
+			}
+
+			li:last-child {
+				padding-bottom: 0;
+			}
+		}
+	}
+
+	#other-projects {
+		width: 48.5%;
+		float: left;
+	}
+
+	#social-networks {
+		width: 48.5%;
+		float: right;
+
+		ul {
+			line-height: 30px;
+
+			li:before {
+				font-family: "resume-font" !important;
+				font-style: normal !important;
+				font-weight: normal !important;
+				font-variant: normal !important;
+				text-transform: none !important;
+				speak: none;
+				padding-right: 5px;;
+				color: $text !important;
+				font-size: 24px;
+				vertical-align: bottom;
+			}
+
+			li:nth-child(1):before {
+				content: "n"
+			}
+
+			li:nth-child(2):before {
+				content: "i"
+			}
+
+			li:nth-child(3):before {
+				content: "g"
+			}
+
+			li:nth-child(4):before {
+				content: "f"
+			}
+
+			li:nth-child(5):before {
+				content: "r"
+			}
+		}
 	}
 }

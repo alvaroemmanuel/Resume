@@ -348,7 +348,28 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 
 <section id="hobbies">
 ## Proyectos alternos y redes sociales
-- Rock N' Geek ([http://rockngeek.net/](http://rockngeek.net/)): Blog y Podcast sobre tecnología, cultura y vida digital.
+<div class="inner-wrapper">
+<article id="other-projects">
+<header>
+#### Proyectos personales y hobbies
+</header>
 - Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
+- Cine
+- Música (escuchar y tocar)
+- Tecnología
+- Lectura
+</article>
+
+<article id="social-networks">
+<header>
+#### En la Web 2.0
+</header>
+- **Rock N' Geek (Blog y Podcast):** [http://rockngeek.net](http://rockngeek.net)
+- **LinkedIn:** [https://www.linkedin.com/in/alvaroemmanuel](https://www.linkedin.com/in/alvaroemmanuel)
+- **Github:** [https://github.com/alvaroemmanuel](https://github.com/alvaroemmanuel)
+- **Facebook:** [https://www.facebook.com/alvaroemmanuel](https://www.facebook.com/alvaroemmanuel)
+- **Twitter:** [@alvaroemmanuel](https://twitter.com/alvaroemmanuel)
+</article>
+</div>
 </section>
 </div>
