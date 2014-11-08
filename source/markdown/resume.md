@@ -3,88 +3,85 @@
 
 ### Project Team Leader
 
-## Perfil
-Líder de equipos de proyectos de IT, con nueve años experiencia profesional en las áreas de Desarrollo, Aseguramiento de la calidad y Análisis del negocio, orientado a detalles y objetivos, con excelentes habilidades de comunicación oral y escrita.
+## Profile
+IT project team leader, with nine years of professional experience in Development, Quality Assurance and Business Analysis, detail-oriented, with excellent communication skills.
 </header>
 
 <div id="main">
 <section id="contact">
-## Datos personales
-Nombre
+## Personal details
+Name
 : Alvaro Emmanuel Valle Vieyra
 
-Ocupación
+Job
 : Project Team Leader / Sr. QA Test Leader
 
-Fecha de nacimiento
-: 20 de diciembre de 1986
+Date of birth
+: December 20, 1986
 
-RFC
-: VAVA861220E68
+Nationality
+: Mexican
 
-Estado civil
-: Soltero
-
-Dirección
+Address
 : Mapimí 65 D-202, Valle Gómez, Cuauhtémoc, C.P. 06240, México D.F.
 
-Teléfono
+Phone
 : +52 (55) 3520 9286
 
-Correo electrónico
+Email
 : alvaroemmanuel@gmail.com
 </section>
 
 <section id="skills">
-## Habilidades profesionales
+## Professional skills
 <div class="inner-wrapper">
 <article id="social-skills">
 <header>
-#### Sociales
+#### Social
 </header>
-- Trabajo en equipo
-- Orientado a objetivos
-- Excelentes habilidades de comunicación oral y escrita
-- Interacción intercultural
+- Teamwork
+- Goal-oriented
+- Excellent communication skills
+- Intercultural interaction
 </article>
 
 <article id="competencies">
 <header>
-#### Competencias
+#### Competencies
 </header>
-- Administración de equipos de trabajo interculturales y distribuídos
-- Generación de planes de proyecto
-- Análisis de requerimientos
-- Generación de estrategias para proyectos y pruebas
-- Diseño de soluciones de sistemas
-- Diseño de pruebas
+- Distributed and intercultural work team management
+- Project planning
+- Requirement analysis
+- Test and project strategy generation
+- System solution design
+- Test design
 </article>
 </div>
 </section>
 
 <section id="languages">
-## Idiomas
+## Languages
 <div class="inner-wrapper">
 <article id="spanish">
-Español
-: Nativo
+Spanish
+: Native
 </article>
 
 <article id="english">
 <header>
-#### Inglés
+#### English
 </header>
 
 <div class="table">
 <div class="theader">
 <div class="cell">
-Comprensión (Escuchar/Leer)
+Understanding (Listening/Reading)
 </div>
 <div class="cell">
-Comunicación verbal
+Verbal communication (Speaking)
 </div>
 <div class="cell">
-Comunicación escrita
+Written communication
 </div>
 </div>
 <div class="row">
@@ -105,11 +102,11 @@ Comunicación escrita
 </section>
 
 <section id="training">
-## Cursos y certificaciones
+## Certifications and courses
 <div class="inner-wrapper">
 <article id="certifications">
 <header>
-#### Certificaciones
+#### Certifications
 </header>
 - ITIL® Foundation Certificate in IT Service Management <br>
   Certificate number: GR750128406AV
@@ -119,7 +116,7 @@ Comunicación escrita
 
 <article id="courses">
 <header>
-#### Cursos
+#### Courses
 </header>
 - HP Quality Center Fundamentals
 - Introduction to HP QuickTest Professional (QTP)
@@ -129,29 +126,29 @@ Comunicación escrita
 </section>
 
 <section id="experience">
-## Experiencia
+## Experience
 <article>
 <header>
-#### TCS (The Nielsen Company)
+#### TATA Consultancy Services (The Nielsen Company)
 2010 - 2014
 </header>
-Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Shore, análisis y entendimiento de requerimientos de usuario, estimación y planeación de estrategias para proyectos de pruebas, diseño y ejecución de casos de prueba, colaboración cercana con usuarios de negocio para definir y complementar el alcance de las aplicaciones, uso de HP ALM (Quality Center) para la gestión del ciclo de vida de testing.
+Leadership of SQA projects, management of off-shore test teams, analysis and understanding of user requirements, estimation and planning of strategies for test projects, design and execution of test cases, close collaboration with business users in order to define and complement the scope of the applications, use of HP ALM (Quality Center) for the management of the testing life cycle.
 
-##### Principales logros
+##### Main achievements
 
-- Dirigir el proyecto de testing para el desarrollo e implementación de la fábrica europea en América Latina, liderando un equipo de cinco personas ubicadas en instalaciones de Off-shore (Chennai, India), interactuando con un equipo global integrado por líderes de más de diez países.
-- Conducir el esfuerzo de testing (análisis, diseño y ejecución) del primer proyecto de Nielsen liberado con QA para América Latina.
-- Conducir la iniciativa de estandarización de estructura del Quality Center (HP ALM) en América Latina, para establecer una base común de configuración de ambientes de pruebas y homologar la base de conocimiento del equipo, facilitando la curva de aprendizaje para miembros nuevos y actuales.
-- Conducir la iniciativa de estandarización de diseño de Test Cases para establecer en el equipo una forma común de escritura de casos de prueba, usando (o desarrollando) un Lenguaje de Descripción de Pruebas común, como Gherkin.
-- Conducir el esfuerzo para consolidar el uso de Test Templates como la unidad básica para la creación de casos de prueba entre los miembros del equipo.
-- Colaborar en la iniciativa de Mejora de Procesos de Negocio (BPI) para el equipo de T&V en América Latina.
-- Reducción de los tiempos de pruebas realizando validaciones masivas de datos con SQL, herramientas ETL y programación.
-- Guiar y dar seguimiento a nuevos miembros del equipo, así como apoyar en proyectos de emergencia (High Priority), de acuerdo a las necesidades de la compañía.
-- Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats y DQC), involucrando de 6 a 7 sistemas diferentes.
-- Apoyar en la creación del checklist de estándares de User Experience (UX) para definir los elementos comunes a probar con respecto a la interfaz de usuario para las aplicaciones web de América Latina.
-- Colaborar con el equipo para mejorar el proceso de pruebas, favoreciendo las relaciones entre nosotros y el resto de las áreas de IT, consolidando  el reconocimiento del trabajo del equipo de SQA.
-- Proveer soporte técnico respecto a la implementación (ambiente de pruebas) y la infraestructura para los primeros proyectos de Testing & Validation en América Latina.
-- Continua investigación de herramientas y tecnologías para mejorar el proceso de pruebas, como Selenium, Watir, Cucumber, RAutomation y AutoIT, entre otros.
+- Lead the testing project for the development and implementation of the european factory in Latin America, managing a team of five people located in off-shore facilities (Chennai, India), interacting with a global team integrated by company business leaders from more than ten countries.
+- Lead the testing effort (analysis, design and execution) of the first Nielsen project released with QA for Latin America.
+- Lead the initiative for the standardization of Quality Center (HP ALM) structure for Latin America, in order to establish a common test environment configuration base and homologate the knowledge base of the team, easing the learning curve for current and new members.
+- Lead the initiative for the standardization of Test Case design in order to establish a common method for writing test cases among the team members, by using (or developing) a common Test Description Language, like Gherkin.
+- Lead the effort to consolidate the use of Test Templates as the basic unit for the creation of Test Cases among the team members.
+- Collaborate in the Business Process Improvement (BPI) initiative for the Testing & Validation team in Latin America.
+- Reduction of test cycle times by performing massive data validations using SQL, ETL tools and programming.
+- Guide and follow up new team members, as well as helping with emergency projects (High Priority), according to the needs of the company.
+- Conduct the creation of the Critical Regression Test Bed of two of the Golden Applications for Latin America (Formats and DQC), involving up to seven different systems.
+- Contribute to the creation of the User Experience (UX) standards checklist in order to define the common elements to test regarding the user interface of the web applications for Latin America.
+- Collaborate with the team in order to improve the testing process, strengthening the relations between the team members and also with the rest of the IT areas, helping to consolidate the recognition of the work of the SQA team.
+- Provide technical support regarding the deployment and infrastructure for the test environments of the first Testing & Validation projects in Latin America.
+- Continuous research of tools and technologies to improve the testing process, such as Selenium, Watir, Cucumber, RAutomation, AutoIT, among others.
 </article>
 
 <article>
@@ -159,13 +156,13 @@ Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Sho
 #### Abatta Systems
 2010
 </header>
-Desarrollo de funcionalidad para el administrador de documentos BostonDM utilizando web services y Visual Studio Tools for Office 2005 y 2008.
+Development of functionality for the BostonDM document manager, using web services and Visual Studio Tools for Office 2005 and 2008.
 
-Implementación de módulos para el sistema de Nominaciones de Gas de GDL basado en el Framework Ding para .NET.
+Implementation of modules for the system "Nominaciones de Gas de GDL", based on a custom development framework called Ding for the .NET platform.
 
-Planeación y ejecución de pruebas de integración de las herramientas de trabajo con el SCM Git y la aplicación web Gitorious utilizando un servidor virtual con VMWare y Ubuntu Server 9.10.
+Planning and execution of integration tests between the development tools, the Git SCM and the Gitorious web application, using a VMWare virtual server running Ubuntu Server 9.10.
 
-Versionado de código y control de proyectos utilizando Microsoft SharePoint y Subversion.
+Control of projects and code by using Microsoft SharePoint and Subversion.
 </article>
 
 <article>
@@ -173,9 +170,9 @@ Versionado de código y control de proyectos utilizando Microsoft SharePoint y S
 #### Ondore
 2009
 </header>
-Desarrollo de módulos y reportes para el sistema de administración de IdeasRadio de Telcel, así como implementación de funciones de envío de SMS y creación dinámica de Listas de Reproducción Personalizadas en el servicio IdeasRadio de Telcel por medio del Web-API en .NET utilizando la versión 3.5 del framework, VisualStudio 2008, MS SQL Server 2000 con Enterprise Library y LINQ.
+Development of modules and reports for the Telcel IdeasRadio administration system, as well as implementation of text messaging functions and custom dynamic playlists creation in the IdeasRadio service through the .NET web API, using the .NET Framework version 3.5, VisualStudio 2008 and MS SQL Server 2000 with Enterprise Library and LINQ.
 
-Control y revisión de proyectos y código utilizando las herramientas de Google Apps, BugTracker.Net y el SCM Subversion para el entorno de desarrollo.
+Control and revision of projects and code using Google Apps tools, BugTracker.NET and Subversion for the development environment.
 </article>
 
 <article>
@@ -183,11 +180,11 @@ Control y revisión de proyectos y código utilizando las herramientas de Google
 #### Software Integral de Sistemas de Cómputo
 2007 - 2009
 </header>
-Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las plataformas Visual Basic 6.0 y .NET (C#/Gtk# sobre Mono y .NET Framework 2.0) con BD's Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL y SQLite,  con entorno de trabajo basado en VisualStudio 2005 y MonoDevelop, utilizando la metodología XP (Extreme Programming), trabajando en los proyectos:
+Development of systems for hospitals and medical offices, based on Visual Basic 6.0 and .NET (C#/Gtk# with Mono and .NET Framework 2.0) with Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL and SQLite, using VisualStudio 2005 and MonoDevelop and following the XP (Extreme Programming) agile methodology. Working on the projects:
 
-- Sistema de Medicina Preventiva del Hospital ABC Santa Fe
-- Sistema Médico Integral para consultorio del Dr. Gabriel Rodríguez Weber
-- Sistema Médico Integral para consultorio del Dr. José Montes Montes
+- Preventive Medicine System for ABC Santa Fe Hospital
+- Integrated Medical System for Dr. Gabriel Rodríguez Weber office
+- Integrated Medical System for Dr. José Montes Montes office
 </article>
 
 <article>
@@ -195,13 +192,13 @@ Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las
 #### Gobtec
 2005 - 2007
 </header>
-Desarrollador de Sistemas de Información Geográfica en las plataformas Visual Basic 6.0, .NET (Visual C#), basado en componentes COM de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
+Developer of Geographic Information Systems (GIS), using Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology. Working on the projects:
 
-- GeoAgua (Sistema para la administración de agua del gobierno de Sinaloa)
-- GeoAgrox (SAGARPA)
-- GeoVoto (Sistema para análisis geográfico/electoral)
-- SGAM (Sistema de Gestión y Administración Municipal para la SEDESOL)
-- GeoGobierno (Versión base)
+- GeoAgua (System for the water management for the Sinaloa State government)
+- GeoAgrox (SAGARPA, Secretariat of Agriculture, Livestock, Rural Development, Fisheries and Food)
+- GeoVoto (System for geographic/electoral analysis)
+- SGAM (Municipal Administration System for the SEDESOL, Secretariat of Social Development)
+- GeoGobierno (Base Version)
 </article>
 
 <article>
@@ -209,25 +206,25 @@ Desarrollador de Sistemas de Información Geográfica en las plataformas Visual 
 #### Mapdata
 2004 - 2005
 </header>
-Desarrollador y Administrador Web sobre plataformas Windows con herramientas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005 y bases de datos MS SQLServer 2000/2005 sobre ADO.NET, trabajando en los proyectos:
+Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005 and MS SQLServer 2000/2005 through ADO.NET as database. Working on the projects:
 
-- Sitio corporativo
-- Sitio de GeoVoto
-- Desarrollo de servicios de _bulk mail delivery_
-- Implementación y administración del sistema de control de versiones Subversion para código fuente y cartografía
+- Corporate website
+- GeoVoto website
+- Development of bulk mail delivery services
+- Implementation and management of the SCM Subversion for code and maps
 </article>
 </section>
 
 <section id="technical">
-## Conocimientos técnicos
+## Technical skills
 <div class="inner-wrapper">
 <div class="float-left">
 <article id="os">
 <header>
-#### Sistemas Operativos
+#### Operating Systems
 </header>
 - OS X
-- Linux/Unix (RHEL, Debian, Ubuntu, openSUSE)
+- Linux / Unix (RHEL, Debian, Ubuntu, openSUSE)
 - Windows (Desktop / Server)
 </article>
 
@@ -241,7 +238,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - GTK/GTK+
 - JQuery
 - Bourbon / Bootstrap / Foundation
-- Cucumber/Gherkin
+- Cucumber / Gherkin
 - RAutomation
 - AutoIT
 - PyWinAuto
@@ -263,12 +260,12 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - LibreOffice
 - Adobe CC (Illustrator, Photoshop)
 - Git
-- Herramientas ETL (Pentaho y Talend)
+- ETL tools (Pentaho and Talend)
 </article>
 
 <article id="bd">
 <header>
-#### Bases de Datos
+#### Databases
 </header>
 - SQL Server
 - Oracle 8i
@@ -282,10 +279,10 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 <div class="float-left">
 <article id="programming-lang">
 <header>
-#### Lenguajes de programación y diseño
+#### Design and programming languages
 </header>
 - Ruby
-- C# con .NET y Xamarin / Mono
+- C# con .NET and Xamarin / Mono
 - C++
 - Python
 - Visual Basic 6.0 / VBA
@@ -293,7 +290,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 - CSS3
 - SASS
 - Javascript
-- UML y desarrollo con MVC
+- Design and development with UML and MVC
 </article>
 
 <article id="infra">
@@ -311,13 +308,13 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 </section>
 
 <section id="education">
-## Formación académica
+## Education
 <article>
 <header>
-#### UnAD México
-2010 - Presente
+#### UnAD Mexico
+2010 - Current
 </header>
-- Ing. Desarrollo de software (IDS)
+- Bachelor of Software Engineering
 </article>
 
 <article>
@@ -325,7 +322,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 #### IPN ESCOM
 2006 - 2009
 </header>
-- Ing. Sistemas Computacionales (inconclusa)
+- Bachelor of Computer Systems Engineering (unfinished)
 </article>
 
 <article>
@@ -333,8 +330,8 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 #### IPN CECyT 9 "Juan de Dios Bátiz"
 2001 - 2004
 </header>
-- Técnico en Sistemas Digitales
-- Certificado parcial de educación media superior
+- Digital Systems Technician
+- Technological upper-secondary education partial certificate
 </article>
 
 <article>
@@ -342,29 +339,29 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 #### Dirección General del Bachillerato
 2005
 </header>
-- Certificado de educación media superior
+- Upper-secondary education certificate (High school)
 </article>
 </section>
 
 <section id="hobbies">
-## Proyectos alternos y redes sociales
+## Alternate projects, hobbies and social networks
 <div class="inner-wrapper">
 <article id="other-projects">
 <header>
-#### Proyectos personales y hobbies
+#### Hobbies and personal projects
 </header>
-- Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
-- Cine
-- Música (escuchar y tocar)
-- Tecnología
-- Lectura
+- Development and implementation of personal and third-party websites (companies and nonprofit organizations) using several technologies, mainly **Ruby On Rails** y **Wordpress**
+- Movies
+- Music (listening and playing)
+- Technology
+- Reading
 </article>
 
 <article id="social-networks">
 <header>
-#### En la Web 2.0
+#### In the web 2.0
 </header>
-- **Rock N' Geek (Blog y Podcast):** [http://rockngeek.net](http://rockngeek.net)
+- **Rock N' Geek (Blog and Podcast):** [http://rockngeek.net](http://rockngeek.net)
 - **LinkedIn:** [https://www.linkedin.com/in/alvaroemmanuel](https://www.linkedin.com/in/alvaroemmanuel)
 - **Github:** [https://github.com/alvaroemmanuel](https://github.com/alvaroemmanuel)
 - **Facebook:** [https://www.facebook.com/alvaroemmanuel](https://www.facebook.com/alvaroemmanuel)
