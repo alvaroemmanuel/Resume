@@ -61,7 +61,7 @@ h1, h2 {
 }
 
 h2 {
-	margin-top: 3em;
+	margin-top: 4em;
 }
 
 h2:after {
@@ -182,7 +182,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 2.5em;
+		padding-bottom: 3.5em;
 
 		header {
 			h4 {
@@ -211,7 +211,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 2.5em;
+		padding-bottom: 3.5em;
 
 		header {
 			h4 {
@@ -373,7 +373,7 @@ div.inner-wrapper {
 	}
 
 	article:last-child {
-		padding-bottom: 2.5em;
+		padding-bottom: 0;
 		border-bottom-style: none;
 		border-bottom-width: 0;
 		border-bottom-color: transparent;
@@ -386,7 +386,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 60px;
+		padding-bottom: 4em;
 		margin-left: 60px;
 		border-bottom-style: solid;
 		border-bottom-width: 1px;
@@ -436,6 +436,8 @@ div.inner-wrapper {
 }
 
 #hobbies {
+	padding-top: 20px;
+
 	h2:after {
 		content: "a"
 	}

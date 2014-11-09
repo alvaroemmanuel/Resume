@@ -344,7 +344,7 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 </section>
 
 <section id="hobbies">
-## Alternate projects, hobbies and social networks
+## Hobbies, side projects and social networks
 <div class="inner-wrapper">
 <article id="other-projects">
 <header>
