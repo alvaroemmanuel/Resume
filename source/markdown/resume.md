@@ -52,7 +52,7 @@ Correo electrónico
 <header>
 #### Competencias
 </header>
-- Administración de equipos de trabajo interculturales y distribuídos
+- Administración de equipos de trabajo interculturales y distribuidos
 - Generación de planes de proyecto
 - Análisis de requerimientos
 - Generación de estrategias para proyectos y pruebas
