@@ -132,14 +132,14 @@ Comunicación escrita
 ## Experiencia
 <article>
 <header>
-#### TCS (The Nielsen Company)
+#### TATA Consultancy Services (The Nielsen Company)
 2010 - 2014
 </header>
-Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Shore, análisis y entendimiento de requerimientos de usuario, estimación y planeación de estrategias para proyectos de pruebas, diseño y ejecución de casos de prueba, colaboración cercana con usuarios de negocio para definir y complementar el alcance de las aplicaciones, uso de HP ALM (Quality Center) para la gestión del ciclo de vida de testing.
+Dirección de proyectos de SQA, administración de equipos de pruebas en _off-shore_, análisis y entendimiento de requerimientos de usuario, estimación y planeación de estrategias para proyectos de pruebas, diseño y ejecución de casos de prueba, colaboración cercana con usuarios de negocio para definir y complementar el alcance de las aplicaciones, uso de HP ALM (Quality Center) para la gestión del ciclo de vida de testing.
 
 ##### Principales logros
 
-- Dirigir el proyecto de testing para el desarrollo e implementación de la fábrica europea en América Latina, liderando un equipo de cinco personas ubicadas en instalaciones de Off-shore (Chennai, India), interactuando con un equipo global integrado por líderes de más de diez países.
+- Dirigir el proyecto de testing para el desarrollo e implementación de la fábrica europea en América Latina, liderando un equipo de cinco personas ubicadas en instalaciones de _off-shore_ (Chennai, India), interactuando con un equipo global integrado por líderes de negocio de más de diez países.
 - Conducir el esfuerzo de testing (análisis, diseño y ejecución) del primer proyecto de Nielsen liberado con QA para América Latina.
 - Conducir la iniciativa de estandarización de estructura del Quality Center (HP ALM) en América Latina, para establecer una base común de configuración de ambientes de pruebas y homologar la base de conocimiento del equipo, facilitando la curva de aprendizaje para miembros nuevos y actuales.
 - Conducir la iniciativa de estandarización de diseño de Test Cases para establecer en el equipo una forma común de escritura de casos de prueba, usando (o desarrollando) un Lenguaje de Descripción de Pruebas común, como Gherkin.
@@ -147,8 +147,8 @@ Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Sho
 - Colaborar en la iniciativa de Mejora de Procesos de Negocio (BPI) para el equipo de T&V en América Latina.
 - Reducción de los tiempos de pruebas realizando validaciones masivas de datos con SQL, herramientas ETL y programación.
 - Guiar y dar seguimiento a nuevos miembros del equipo, así como apoyar en proyectos de emergencia (High Priority), de acuerdo a las necesidades de la compañía.
-- Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats y DQC), involucrando de 6 a 7 sistemas diferentes.
-- Apoyar en la creación del checklist de estándares de User Experience (UX) para definir los elementos comunes a probar con respecto a la interfaz de usuario para las aplicaciones web de América Latina.
+- Llevar a cabo la creación del Critical Regression Test Bed para dos de las Golden Applications de América Latina (Formats y DQC), involucrando de hasta 7 sistemas diferentes.
+- Apoyar en la creación del checklist de estándares de Experiencia de Usuario (UX) para definir los elementos comunes a probar con respecto a la interfaz de usuario para las aplicaciones web de América Latina.
 - Colaborar con el equipo para mejorar el proceso de pruebas, favoreciendo las relaciones entre nosotros y el resto de las áreas de IT, consolidando  el reconocimiento del trabajo del equipo de SQA.
 - Proveer soporte técnico respecto a la implementación (ambiente de pruebas) y la infraestructura para los primeros proyectos de Testing & Validation en América Latina.
 - Continua investigación de herramientas y tecnologías para mejorar el proceso de pruebas, como Selenium, Watir, Cucumber, RAutomation y AutoIT, entre otros.
@@ -161,7 +161,7 @@ Dirección de proyectos de SQA, administración de equipos de pruebas en Off-Sho
 </header>
 Desarrollo de funcionalidad para el administrador de documentos BostonDM utilizando web services y Visual Studio Tools for Office 2005 y 2008.
 
-Implementación de módulos para el sistema de Nominaciones de Gas de GDL basado en el Framework Ding para .NET.
+Implementación de módulos para el sistema de Nominaciones de Gas de GDL utilizando un framework personalizado para .NET llamado Ding.
 
 Planeación y ejecución de pruebas de integración de las herramientas de trabajo con el SCM Git y la aplicación web Gitorious utilizando un servidor virtual con VMWare y Ubuntu Server 9.10.
 
@@ -195,7 +195,7 @@ Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las
 #### Gobtec
 2005 - 2007
 </header>
-Desarrollador de Sistemas de Información Geográfica en las plataformas Visual Basic 6.0, .NET (Visual C#), basado en componentes COM de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
+Desarrollador de Sistemas de Información Geográfica en las plataformas Visual Basic 6.0, .NET (Visual C#), basado en componentes COM+ de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
 
 - GeoAgua (Sistema para la administración de agua del gobierno de Sinaloa)
 - GeoAgrox (SAGARPA)
@@ -209,11 +209,11 @@ Desarrollador de Sistemas de Información Geográfica en las plataformas Visual 
 #### Mapdata
 2004 - 2005
 </header>
-Desarrollador y Administrador Web sobre plataformas Windows con herramientas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005 y bases de datos MS SQLServer 2000/2005 sobre ADO.NET, trabajando en los proyectos:
+Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005 y bases de datos MS SQLServer 2000/2005 sobre ADO.NET, trabajando en los proyectos:
 
 - Sitio corporativo
 - Sitio de GeoVoto
-- Desarrollo de servicios de _bulk mail delivery_
+- Desarrollo de servicios de envío masivo de email
 - Implementación y administración del sistema de control de versiones Subversion para código fuente y cartografía
 </article>
 </section>
@@ -227,7 +227,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 #### Sistemas Operativos
 </header>
 - OS X
-- Linux/Unix (RHEL, Debian, Ubuntu, openSUSE)
+- Linux / Unix (RHEL, Debian, Ubuntu, openSUSE)
 - Windows (Desktop / Server)
 </article>
 
@@ -235,13 +235,13 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 <header>
 #### Frameworks
 </header>
-- Ruby On Rails
+- Ruby on Rails
 - .NET Framework
 - Qt
-- GTK/GTK+
+- GTK / GTK+
 - JQuery
 - Bourbon / Bootstrap / Foundation
-- Cucumber/Gherkin
+- Cucumber / Gherkin
 - RAutomation
 - AutoIT
 - PyWinAuto
@@ -353,7 +353,7 @@ Desarrollador y Administrador Web sobre plataformas Windows con herramientas Ado
 <header>
 #### Proyectos personales y hobbies
 </header>
-- Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby On Rails** y **Wordpress**
+- Desarrollo e implementación de sitios personales y para terceros (asociaciones y empresas) con diferentes tecnologías, principalmente **Ruby on Rails** y **Wordpress**
 - Cine
 - Música (escuchar y tocar)
 - Tecnología
