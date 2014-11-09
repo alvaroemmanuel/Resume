@@ -136,9 +136,9 @@ Leadership of SQA projects, management of off-shore test teams, analysis and und
 
 ##### Main achievements
 
-- Lead the testing project for the development and implementation of the european factory in Latin America, managing a team of five people located in off-shore facilities (Chennai, India), interacting with a global team integrated by company business leaders from more than ten countries.
+- Lead the testing project for the development and implementation of the European factory in Latin America, managing a team of five people located in off-shore facilities (Chennai, India), interacting with a global team integrated by company business leaders from more than ten countries.
 - Lead the testing effort (analysis, design and execution) of the first Nielsen project released with QA for Latin America.
-- Lead the initiative for the standardization of Quality Center (HP ALM) structure for Latin America, in order to establish a common test environment configuration base and homologate the knowledge base of the team, easing the learning curve for current and new members.
+- Lead the initiative for the standardization of Quality Center (HP ALM) structure for Latin America, in order to establish a common test environment configuration base and homogenate the knowledge base of the team, easing the learning curve for current and new members.
 - Lead the initiative for the standardization of Test Case design in order to establish a common method for writing test cases among the team members, by using (or developing) a common Test Description Language, like Gherkin.
 - Lead the effort to consolidate the use of Test Templates as the basic unit for the creation of Test Cases among the team members.
 - Collaborate in the Business Process Improvement (BPI) initiative for the Testing & Validation team in Latin America.
@@ -232,10 +232,10 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 <header>
 #### Frameworks
 </header>
-- Ruby On Rails
+- Ruby on Rails
 - .NET Framework
 - Qt
-- GTK/GTK+
+- GTK / GTK+
 - JQuery
 - Bourbon / Bootstrap / Foundation
 - Cucumber / Gherkin
@@ -295,7 +295,7 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 
 <article id="infra">
 <header>
-#### Infraestructura
+#### Infrastructure
 </header>
 - IIS
 - Apache
@@ -350,7 +350,7 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 <header>
 #### Hobbies and personal projects
 </header>
-- Development and implementation of personal and third-party websites (companies and nonprofit organizations) using several technologies, mainly **Ruby On Rails** y **Wordpress**
+- Development and implementation of personal and third-party websites (companies and nonprofit organizations) using several technologies, mainly **Ruby on Rails** y **Wordpress**
 - Movies
 - Music (listening and playing)
 - Technology
