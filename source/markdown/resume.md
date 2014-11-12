@@ -7,6 +7,8 @@
 Líder de equipos de proyectos de TI, con nueve años de experiencia profesional en las áreas de Desarrollo, Aseguramiento de la calidad y Análisis del negocio, orientado a detalles y objetivos, con excelentes habilidades de comunicación oral y escrita.
 </header>
 
+![Photo](images/photo.jpg)
+
 <div id="main">
 <section id="contact">
 ## Datos personales

@@ -20,8 +20,8 @@ File.open('build/html/resume.html', 'w') { |file| file.puts doc }
 
 `htmlbeautifier build/html/resume.html`
 
-# FileUtils.remove_dir 'build/html/images', true
-# FileUtils.cp_r 'source/assets/images/', 'build/html/images'
+FileUtils.remove_dir 'build/html/images', true
+FileUtils.cp_r 'source/assets/images/', 'build/html/images'
 
 css = Sass::Engine.for_file(
   'source/assets/stylesheets/resume.css.scss', {}
