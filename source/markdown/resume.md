@@ -26,7 +26,7 @@ Address
 : Mapimí 65 D-202, Valle Gómez, Cuauhtémoc, C.P. 06240, México D.F.
 
 Phone
-: +52 (55) 3520 9286
+: +52 1 (55) 3520 9286
 
 Email
 : alvaroemmanuel@gmail.com
