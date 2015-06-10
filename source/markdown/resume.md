@@ -132,6 +132,20 @@ Comunicación escrita
 ## Experiencia
 <article>
 <header>
+#### Virket / DA.SH
+2015
+</header>
+Administración del proceso de pruebas. Preparación y desarrollo del plan de acción para la implementación de un proceso de pruebas ágil, involucrando a los equipos de desarrollo y DevOps.
+
+Configuración y administración de Jenkins CI para la integración continua e implantación en ambientes de prueba con notificaciones para Slack.
+
+Investigación y configuración de ambientes de prueba basados en micro servicios utilizando Docker, Docker Compose, AWS Elastic Container Service, Node.js, PHP, MongoDB, MySQL y Apache en Linux y OS X.
+
+Creación de mapa de infraestructura productiva en AWS.
+</article>
+
+<article>
+<header>
 #### TATA Consultancy Services (The Nielsen Company)
 2010 - 2014
 </header>
@@ -186,33 +200,22 @@ Control y revisión de proyectos y código utilizando las herramientas de Google
 Desarrollador de Sistemas para Hospitales y Consultorios Médicos basados en las plataformas Visual Basic 6.0 y .NET (C#/Gtk# sobre Mono y .NET Framework 2.0) con BD's Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL y SQLite,  con entorno de trabajo basado en VisualStudio 2005 y MonoDevelop, utilizando la metodología XP (Extreme Programming), trabajando en los proyectos:
 
 - Sistema de Medicina Preventiva del Hospital ABC Santa Fe
-- Sistema Médico Integral para consultorio del Dr. Gabriel Rodríguez Weber
-- Sistema Médico Integral para consultorio del Dr. José Montes Montes
+- Sistema Médico Integral para consultorios de Dr. Gabriel Rodríguez Weber y Dr. José Montes Montes
 </article>
 
 <article>
 <header>
-#### Gobtec
-2005 - 2007
+#### Mapdata / Gobtec
+2004 - 2007
 </header>
-Desarrollador de Sistemas de Información Geográfica en las plataformas Visual Basic 6.0, .NET (Visual C#), basado en componentes COM+ de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
+Administrador web y desarrollador de Sistemas de Información Geográfica en las plataformas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005, así como Visual Basic 6.0, .NET (Visual C#), basado en componentes COM+ de MapInfo, administración de bases de datos con SQL Server 2000/2005, modelado de sistemas usando el estándar UML 2.0 y la metodología Métrica 3.0, trabajando en los proyectos:
 
 - GeoAgua (Sistema para la administración de agua del gobierno de Sinaloa)
 - GeoAgrox (SAGARPA)
 - GeoVoto (Sistema para análisis geográfico/electoral)
 - SGAM (Sistema de Gestión y Administración Municipal para la SEDESOL)
 - GeoGobierno (Versión base)
-</article>
-
-<article>
-<header>
-#### Mapdata
-2004 - 2005
-</header>
-Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 y ASP.NET 2.0 con VisualStudio 2005 y bases de datos MS SQLServer 2000/2005 sobre ADO.NET, trabajando en los proyectos:
-
-- Sitio corporativo
-- Sitio de GeoVoto
+- Desarrollo de sitios web (GeoVoto y sitio corporativo)
 - Desarrollo de servicios de envío masivo de email
 - Implementación y administración del sistema de control de versiones Subversion para código fuente y cartografía
 </article>
@@ -256,11 +259,11 @@ Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas 
 #### Software
 </header>
 - HP ALM (Quality Center)
+- Jenkins CI
 - WBS Chart Pro
 - MS Project
-- MS Visio
+- MS Visio y Draw.io
 - MS Office (Word, Excel, PowerPoint)
-- LibreOffice
 - Adobe CC (Illustrator, Photoshop)
 - Git
 - Herramientas ETL (Pentaho y Talend)
@@ -271,9 +274,9 @@ Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas 
 #### Bases de Datos
 </header>
 - SQL Server
-- Oracle 8i
-- SQLite3
 - MySQL
+- Oracle
+- SQLite3
 - PostgreSQL
 - MongoDB
 </article>
@@ -300,11 +303,11 @@ Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas 
 <header>
 #### Infraestructura
 </header>
+- Docker y Docker Compose
+- AWS EC2 y ECS
 - IIS
 - Apache
 - Phusion Passenger
-- OpenStack
-- VMWare vSphere
 </article>
 </div>
 </div>
@@ -364,7 +367,7 @@ Desarrollador y Administrador Web sobre plataformas Microsoft, con herramientas 
 <header>
 #### En la Web 2.0
 </header>
-- **Rock N' Geek (Blog y Podcast):** [http://rockngeek.net](http://rockngeek.net)
+- **Rock N' Geek:** [http://rockngeek.net](http://rockngeek.net)
 - **LinkedIn:** [https://www.linkedin.com/in/alvaroemmanuel](https://www.linkedin.com/in/alvaroemmanuel)
 - **Github:** [https://github.com/alvaroemmanuel](https://github.com/alvaroemmanuel)
 - **Facebook:** [https://www.facebook.com/alvaroemmanuel](https://www.facebook.com/alvaroemmanuel)
