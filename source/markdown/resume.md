@@ -137,9 +137,9 @@ Comunicación escrita
 #### Virket / DA.SH
 2015
 </header>
-Administración del proceso de pruebas. Preparación y desarrollo del plan de acción para la implementación de un proceso de pruebas ágil, involucrando a los equipos de desarrollo y DevOps.
+Administración del proceso de pruebas. Planeación y desarrollo del plan de acción para la implementación de un proceso de pruebas ágil, involucrando a los equipos de desarrollo y DevOps.
 
-Configuración y administración de Jenkins CI para la integración continua e implantación en ambientes de prueba con notificaciones para Slack.
+Configuración y administración de Jenkins CI para la integración continua e implantación en ambientes de prueba con envío de notificaciones a Slack.
 
 Investigación y configuración de ambientes de prueba basados en micro servicios utilizando Docker, Docker Compose, AWS Elastic Container Service, Node.js, PHP, MongoDB, MySQL y Apache en Linux y OS X.
 
@@ -268,6 +268,7 @@ Administrador web y desarrollador de Sistemas de Información Geográfica en las
 - MS Office (Word, Excel, PowerPoint)
 - Adobe CC (Illustrator, Photoshop)
 - Git
+- Slack
 - Herramientas ETL (Pentaho y Talend)
 </article>
 
