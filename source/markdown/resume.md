@@ -129,6 +129,20 @@ Written communication
 ## Experience
 <article>
 <header>
+#### Virket / DA.SH
+2015
+</header>
+QA Manager. Planning and development of the action plan for the implementation of an agile testing process, involving DevOps and development teams.
+
+Configuration and management of Jenkins CI for the continuous integration and deployment of test environments, sending notifications to Slack communications tool.
+
+Research and setup of test environments based on micro-services using Docker, Docker Compose, AWS EC2 and Elastic Container Service, Node.js, PHP, MongoDB, MySQL (Percona) and Apache on Linux and OS X.
+
+Elaboration of the AWS Infrastructure Map for production environments.
+</article>
+
+<article>
+<header>
 #### TATA Consultancy Services (The Nielsen Company)
 2010 - 2014
 </header>
@@ -189,27 +203,17 @@ Development of systems for hospitals and medical offices, based on Visual Basic 
 
 <article>
 <header>
-#### Gobtec
-2005 - 2007
+#### Mapdata / Gobtec
+2004 - 2007
 </header>
-Developer of Geographic Information Systems (GIS), using Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology. Working on the projects:
+Webmaster and developer of Geographic Information Systems (GIS), using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005, as well as Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology. Working on the projects:
 
 - GeoAgua (System for the water management for the Sinaloa State government)
 - GeoAgrox (SAGARPA, Secretariat of Agriculture, Livestock, Rural Development, Fisheries and Food)
 - GeoVoto (System for geographic/electoral analysis)
 - SGAM (Municipal Administration System for the SEDESOL, Secretariat of Social Development)
 - GeoGobierno (Base Version)
-</article>
-
-<article>
-<header>
-#### Mapdata
-2004 - 2005
-</header>
-Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005 and MS SQLServer 2000/2005 through ADO.NET as database. Working on the projects:
-
-- Corporate website
-- GeoVoto website
+- Website development (Corporate and GeoVoto websites)
 - Development of bulk mail delivery services
 - Implementation and management of the SCM Subversion for code and maps
 </article>
@@ -253,13 +257,14 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 #### Software
 </header>
 - HP ALM (Quality Center)
+- Jenkins CI
 - WBS Chart Pro
 - MS Project
 - MS Visio
 - MS Office (Word, Excel, PowerPoint)
-- LibreOffice
 - Adobe CC (Illustrator, Photoshop)
 - Git
+- Slack
 - ETL tools (Pentaho and Talend)
 </article>
 
@@ -268,9 +273,9 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 #### Databases
 </header>
 - SQL Server
-- Oracle 8i
-- SQLite3
 - MySQL
+- Oracle
+- SQLite3
 - PostgreSQL
 - MongoDB
 </article>
@@ -297,11 +302,11 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 <header>
 #### Infrastructure
 </header>
+- Docker and Docker Compose
+- AWS EC2 and ECS
 - IIS
 - Apache
 - Phusion Passenger
-- OpenStack
-- VMWare vSphere
 </article>
 </div>
 </div>
@@ -361,7 +366,7 @@ Webmaster and developer based on Microsoft platforms, using Adobe Flash 8.0, Dre
 <header>
 #### In the web 2.0
 </header>
-- **Rock N' Geek (Blog and Podcast):** [http://rockngeek.net](http://rockngeek.net)
+- **Rock N' Geek:** [http://rockngeek.net](http://rockngeek.net)
 - **LinkedIn:** [https://www.linkedin.com/in/alvaroemmanuel](https://www.linkedin.com/in/alvaroemmanuel)
 - **Github:** [https://github.com/alvaroemmanuel](https://github.com/alvaroemmanuel)
 - **Facebook:** [https://www.facebook.com/alvaroemmanuel](https://www.facebook.com/alvaroemmanuel)
