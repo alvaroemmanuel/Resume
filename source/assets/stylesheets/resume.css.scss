@@ -297,7 +297,11 @@ div.inner-wrapper {
 }
 
 #technical {
-	padding-top: 1em;
+	padding-top: 2em;
+
+	h2 {
+		margin-top: 0;
+	}
 
 	h2:after {
 		content: "t";
@@ -431,6 +435,10 @@ div.inner-wrapper {
 
 			li {
 				padding-bottom: 1em;
+			}
+
+			li:last-child {
+				padding-bottom: 0;
 			}
 		}
 	}
