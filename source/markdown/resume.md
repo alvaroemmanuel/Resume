@@ -4,7 +4,7 @@
 ### Project Team Leader
 
 ## Profile
-IT project team leader, with nine years of professional experience in Development, Quality Assurance and Business Analysis, detail-oriented, with excellent communication skills.
+IT project team leader, with 10 years of professional experience in Development, Quality Assurance and Business Analysis, detail-oriented, with excellent communication skills.
 </header>
 
 <div id="main">
@@ -129,6 +129,26 @@ Written communication
 ## Experience
 <article>
 <header>
+#### TATA Consultancy Services (Staples Inc.)
+2015 - Current
+</header>
+Test automation leader, using Selenium Webdriver with java and a in-house developed test automation framework, based on the Page Object pattern.
+
+Performing tasks of code reviewing as well as analysis and prioritization of incoming test cases, candidates to automation, distributing work among team members in order to achieve the client's deadlines.
+</article>
+
+<article>
+<header>
+#### Linio
+2015
+</header>
+Definition and development of the test automation strategy within the QA team, implementing the automation harness for both, web and mobile apps (iOS and Android), using Ruby, Cucumber, Capybara, Selenium Webdriver, Appium and Calaba.sh with TestMunk for grid cloud execution and Git for code versioning.
+
+Perform regression testing for new releases of current apps twice a week as well as exploratory testing for early versions of new eCommerce apps, both, web and mobile.
+</article>
+
+<article>
+<header>
 #### Virket / DA.SH
 2015
 </header>
@@ -237,17 +257,17 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 #### Frameworks
 </header>
 - Ruby on Rails
-- .NET Framework
-- Qt
-- GTK / GTK+
-- JQuery
-- Bourbon / Bootstrap / Foundation
 - Cucumber / Gherkin
+- Selenium
 - RAutomation
 - AutoIT
 - PyWinAuto
-- Selenium
 - Watir
+- Bourbon / Bootstrap / Foundation
+- JQuery
+- .NET Framework
+- Qt
+- GTK / GTK+
 </article>
 </div>
 
@@ -287,7 +307,8 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 #### Design and programming languages
 </header>
 - Ruby
-- C# con .NET and Xamarin / Mono
+- Page-Object pattern
+- C# with .NET and Xamarin / Mono
 - C++
 - Python
 - Visual Basic 6.0 / VBA
