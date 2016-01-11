@@ -214,11 +214,7 @@ Control and revision of projects and code using Google Apps tools, BugTracker.NE
 #### Software Integral de Sistemas de Cómputo
 2007 - 2009
 </header>
-Development of systems for hospitals and medical offices, based on Visual Basic 6.0 and .NET (C#/Gtk# with Mono and .NET Framework 2.0) with Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL and SQLite, using VisualStudio 2005 and MonoDevelop and following the XP (Extreme Programming) agile methodology. Working on the projects:
-
-- Preventive Medicine System for ABC Santa Fe Hospital
-- Integrated Medical System for Dr. Gabriel Rodríguez Weber office
-- Integrated Medical System for Dr. José Montes Montes office
+Development of systems for hospitals and medical offices, based on Visual Basic 6.0 and .NET (C#/Gtk# with Mono and .NET Framework 2.0) with Microsoft Access, MS SQL Server 2000/2005, MySQL, PostgreSQL and SQLite, using VisualStudio 2005 and MonoDevelop and following the XP (Extreme Programming) agile methodology.
 </article>
 
 <article>
@@ -226,16 +222,7 @@ Development of systems for hospitals and medical offices, based on Visual Basic 
 #### Mapdata / Gobtec
 2004 - 2007
 </header>
-Webmaster and developer of Geographic Information Systems (GIS), using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005, as well as Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology. Working on the projects:
-
-- GeoAgua (System for the water management for the Sinaloa State government)
-- GeoAgrox (SAGARPA, Secretariat of Agriculture, Livestock, Rural Development, Fisheries and Food)
-- GeoVoto (System for geographic/electoral analysis)
-- SGAM (Municipal Administration System for the SEDESOL, Secretariat of Social Development)
-- GeoGobierno (Base Version)
-- Website development (Corporate and GeoVoto websites)
-- Development of bulk mail delivery services
-- Implementation and management of the SCM Subversion for code and maps
+Webmaster and developer of Geographic Information Systems (GIS), using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005, as well as Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology.
 </article>
 </section>
 
@@ -316,7 +303,7 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 - CSS3
 - SASS
 - Javascript
-- Design and development with UML and MVC
+- UML and MVC
 </article>
 
 <article id="infra">
