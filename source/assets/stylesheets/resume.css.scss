@@ -7,6 +7,10 @@ $white: #fff;
 $about-bg: #fbfbfb;
 $about-border: #fff #f3f3f3 #e8e8e8;
 
+.page-break {
+	page-break-before: always;
+}
+
 .table {
 	display: table;
 }
@@ -289,7 +293,7 @@ div.inner-wrapper {
 }
 
 #technical {
-	padding-top: 3em;
+	// padding-top: 3em;
 
 	h2 {
 		margin-top: 0;
@@ -390,7 +394,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 3em;
+		padding-bottom: 2rem;
 		margin-left: 60px;
 		border-bottom-style: solid;
 		border-bottom-width: 1px;

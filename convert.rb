@@ -1,6 +1,7 @@
 require 'kramdown'
 require 'pdfkit'
 require 'sass'
+require 'htmlbeautifier'
 require 'fileutils'
 
 if Gem.win_platform?
@@ -16,9 +17,9 @@ source = File.read('source/markdown/resume.md')
 doc = Kramdown::Document.new(source, auto_ids: false,
   parse_block_html: true, template: 'source/layouts/resume.html').to_html
 
-File.open('build/html/resume.html', 'w') { |file| file.puts doc }
+doc = HtmlBeautifier.beautify(doc)
 
-`htmlbeautifier build/html/resume.html`
+File.open('build/html/resume.html', 'w') { |file| file.puts doc }
 
 # FileUtils.remove_dir 'build/html/images', true
 # FileUtils.cp_r 'source/assets/images/', 'build/html/images'
@@ -32,4 +33,5 @@ File.open('build/html/stylesheets/resume.css', 'w') { |file| file.puts css }
 PDFKit.new(File.new('build/html/resume.html'),
            page_size: 'Letter', margin_top: '2cm',
            margin_right: '0cm', margin_bottom: '2cm',
-           margin_left: '0cm').to_file('build/pdf/resume.pdf')
+           margin_left: '0cm', disable_smart_shrinking: true,
+           dpi: 230).to_file('build/pdf/resume.pdf')

@@ -4,7 +4,7 @@
 ### Project Team Leader
 
 ## Profile
-IT project team leader, with 10 years of professional experience in Development, Quality Assurance and Business Analysis, detail-oriented, with excellent communication skills.
+IT project team leader, with 12 years of professional experience in Development, Quality Assurance and Business Analysis, detail-oriented, with excellent communication skills.
 </header>
 
 <div id="main">
@@ -124,13 +124,27 @@ Written communication
 </article>
 </div>
 </section>
-
+<div class="page-break" />
 <section id="experience">
 ## Experience
 <article>
 <header>
+#### Globant (Aeris Communications)
+2016 - Current
+</header>
+Test automation engineer for IoT projects, focused on deliverables of transport fleets for major companies in Asia market (Mitsubishi, Grab, Axxa, SoftBank), leading the efforts of the testing team in Mexico City.
+
+Design and development of scripts for automation and simulation of tracking devices by sending and analyzing API payloads using tools like Ruby, Selenium/Webdriver, Capybara, Unirest and Postman, achieving generation of trips, alerts and notifications to different platforms, including web, mobile (Android and iOS), SMS and email.
+
+Design and proposal of alternative UI automation framework based on BDD using Cucumber, SitePrism and Capybara for Polymer and React webapps as well as use of in-house developed test automation framework, Java based.
+
+Performing tasks of testing during production deployments, as well as DevOps and testing tasks in QA environments, such as webapp deployments using Docker with Rancher and Keycloak configuration.
+</article>
+
+<article>
+<header>
 #### TATA Consultancy Services (Staples Inc.)
-2015 - Current
+2015 - 2016
 </header>
 Test automation leader, using Selenium Webdriver with java and a in-house developed test automation framework, based on the Page Object pattern.
 
@@ -142,9 +156,9 @@ Performing tasks of code reviewing as well as analysis and prioritization of inc
 #### Linio
 2015
 </header>
-Definition and development of the test automation strategy within the QA team, implementing the automation harness for both, web and mobile apps (iOS and Android), using Ruby, Cucumber, Capybara, Selenium Webdriver, Appium and Calaba.sh with TestMunk for grid cloud execution and Git for code versioning.
+Definition and development of the test automation strategy within the QA team, implementing the automation harness for both, web and mobile apps (iOS and Android), using Ruby, Cucumber, Capybara, Selenium Webdriver, Appium and Calaba.sh with TestMunk for grid cloud execution.
 
-Perform regression testing for new releases of current apps twice a week as well as exploratory testing for early versions of new eCommerce apps, both, web and mobile.
+Perform regression testing for new releases of production apps twice a week as well as exploratory testing for early versions of new eCommerce apps, both, web and mobile.
 </article>
 
 <article>
@@ -154,14 +168,10 @@ Perform regression testing for new releases of current apps twice a week as well
 </header>
 QA Manager. Planning and development of the action plan for the implementation of an agile testing process, involving DevOps and development teams.
 
-Configuration and management of Jenkins CI for the continuous integration and deployment of test environments, sending notifications to Slack communications tool.
-
-Research and setup of test environments based on micro-services using Docker, Docker Compose, AWS EC2 and Elastic Container Service, Node.js, PHP, MongoDB, MySQL (Percona) and Apache on Linux and OS X.
-
-Elaboration of the AWS Infrastructure Map for production environments.
+Configuration and management of Jenkins CI for the continuous integration and deployment of test environments based on micro-services, using Docker (Compose, AWS EC2 and Elastic Container Service), Node.js, PHP, MongoDB, MySQL and Apache, sending notifications to Slack.
 </article>
 
-<article>
+<article id="nielsen">
 <header>
 #### TATA Consultancy Services (The Nielsen Company)
 2010 - 2014
@@ -174,14 +184,9 @@ Leadership of SQA projects, management of off-shore test teams, analysis and und
 - Lead the testing effort (analysis, design and execution) of the first Nielsen project released with QA for Latin America.
 - Lead the initiative for the standardization of Quality Center (HP ALM) structure for Latin America, in order to establish a common test environment configuration base and homogenate the knowledge base of the team, easing the learning curve for current and new members.
 - Lead the initiative for the standardization of Test Case design in order to establish a common method for writing test cases among the team members, by using (or developing) a common Test Description Language, like Gherkin.
-- Lead the effort to consolidate the use of Test Templates as the basic unit for the creation of Test Cases among the team members.
 - Collaborate in the Business Process Improvement (BPI) initiative for the Testing & Validation team in Latin America.
 - Reduction of test cycle times by performing massive data validations using SQL, ETL tools and programming.
-- Guide and follow up new team members, as well as helping with emergency projects (High Priority), according to the needs of the company.
 - Conduct the creation of the Critical Regression Test Bed of two of the Golden Applications for Latin America (Formats and DQC), involving up to seven different systems.
-- Contribute to the creation of the User Experience (UX) standards checklist in order to define the common elements to test regarding the user interface of the web applications for Latin America.
-- Collaborate with the team in order to improve the testing process, strengthening the relations between the team members and also with the rest of the IT areas, helping to consolidate the recognition of the work of the SQA team.
-- Provide technical support regarding the deployment and infrastructure for the test environments of the first Testing & Validation projects in Latin America.
 - Continuous research of tools and technologies to improve the testing process, such as Selenium, Watir, Cucumber, RAutomation, AutoIT, among others.
 </article>
 
@@ -225,7 +230,7 @@ Development of systems for hospitals and medical offices, based on Visual Basic 
 Webmaster and developer of Geographic Information Systems (GIS), using Adobe Flash 8.0, Dreamweaver 7.0/8.0, Fireworks 7.0/8.0 and ASP.NET 2.0 with VisualStudio 2005, as well as Visual Basic 6.0, .NET (Visual C#) and MapInfo COM+ components, database administration with SQL Server 2000/2005, systems modeling using UML 2.0 and Metrica 3.0 as development methodology.
 </article>
 </section>
-
+<div class="page-break" />
 <section id="technical">
 ## Technical skills
 <div class="inner-wrapper">
@@ -235,7 +240,7 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 #### Operating Systems
 </header>
 - OS X
-- Linux / Unix (RHEL, Debian, Ubuntu, openSUSE)
+- Linux / Unix (RHEL, Debian, Ubuntu, openSUSE, Arch)
 - Windows (Desktop / Server)
 </article>
 
@@ -264,7 +269,6 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 #### Software
 </header>
 - HP ALM (Quality Center)
-- Jenkins CI
 - WBS Chart Pro
 - MS Project
 - MS Visio
@@ -310,11 +314,11 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 <header>
 #### Infrastructure
 </header>
-- Docker and Docker Compose
+- Docker
 - AWS EC2 and ECS
-- IIS
-- Apache
-- Phusion Passenger
+- Apache and IIS
+- Jenkins and Netlify
+- Cloudflare
 </article>
 </div>
 </div>
@@ -324,10 +328,10 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 ## Education
 <article>
 <header>
-#### UnAD Mexico
-2010 - Current
+#### UnAD México
+2010 - 2014
 </header>
-- Bachelor of Software Engineering
+- Bachelor of Software Engineering (unfinished)
 </article>
 
 <article>
@@ -363,7 +367,7 @@ Webmaster and developer of Geographic Information Systems (GIS), using Adobe Fla
 <header>
 #### Hobbies and personal projects
 </header>
-- Development and implementation of personal and third-party websites (companies and nonprofit organizations) using several technologies, mainly **Ruby on Rails** y **Wordpress**
+- Development and implementation of personal and third-party websites (companies and nonprofit organizations) using several technologies, mainly **Rails**, **Wordpress** and **Hugo**
 - Movies
 - Music (listening and playing)
 - Technology
