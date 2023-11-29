@@ -65,7 +65,7 @@ h1, h2 {
 }
 
 h2 {
-	margin-top: 4em;
+	margin-top: 5em;
 }
 
 h2:after {
@@ -105,7 +105,7 @@ ul {
 
 	li {
 		padding-left: 1em;
-		text-indent: -1em;
+		text-indent: -2em;
 	}
 
 	li:before {
@@ -153,6 +153,7 @@ header {
 	p {
 		clear: left;
 		margin: 40px auto;
+		margin-bottom: 0px;
 		padding: 20px 25px;
 		max-width: 400px;
 		background: $about-bg;
@@ -175,18 +176,33 @@ div.inner-wrapper {
 }
 
 #contact {
+	h2 {
+		margin-top: 3.5em;
+		margin-bottom: 2em;
+	}
+
 	h2:after {
 		content: "p";
 	}
 }
 
 #skills {
+	h2 {
+		margin-top: 3.5em;
+	}
+
 	h2:after {
 		content: "s";
 	}
 
+	ul {
+		li {
+			padding-bottom: 0.2em;
+		}
+	}
+
 	article {
-		padding-bottom: 3.5em;
+		padding-bottom: 4.5em;
 
 		header {
 			h4 {
@@ -215,7 +231,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 3.5em;
+		padding-bottom: 5em;
 
 		header {
 			h4 {
@@ -259,7 +275,7 @@ div.inner-wrapper {
 	}
 
 	article {
-		padding-bottom: 1em;
+		padding-bottom: 1.1em;
 
 		header {
 			h4 {
@@ -272,11 +288,14 @@ div.inner-wrapper {
 
 		ul {
 			li {
-				padding-bottom: 0.5em;
+				padding-bottom: 0.2em;
 			}
 
 			li:last-child {
-				padding-bottom: 0;
+				border-bottom-style: none;
+				border-bottom-width: 0;
+				border-bottom-color: transparent;
+				padding-bottom: 0px;
 			}
 		}
 	}
@@ -293,7 +312,7 @@ div.inner-wrapper {
 }
 
 #technical {
-	// padding-top: 3em;
+	padding-top: 3em;
 
 	h2 {
 		margin-top: 0;
@@ -317,7 +336,7 @@ div.inner-wrapper {
 
 		ul {
 			li {
-				padding-bottom: 0.5em;
+				padding-bottom: 0.2em;
 			}
 
 			li:last-child {
@@ -333,68 +352,82 @@ div.inner-wrapper {
 	}
 }
 
-#education {
-	h2:after {
-		content: "e"
-	}
+// #education {
+// 	h2:after {
+// 		content: "e"
+// 	}
 
-	article {
-		margin-left: 60px;
-		padding-bottom: 60px;
-		border-bottom-style: solid;
-		border-bottom-width: 1px;
-		border-bottom-color: $main-color;
+// 	article {
+// 		margin-left: 60px;
+// 		padding-bottom: 60px;
+// 		border-bottom-style: solid;
+// 		border-bottom-width: 1px;
+// 		border-bottom-color: $main-color;
 
-		header {
-			margin: 0;
-			width: 35%;
-			float: left;
+// 		header {
+// 			margin: 0;
+// 			width: 35%;
+// 			float: left;
 
-			h4 {
-				margin: 0;
-				font-size: 14px;
-				font-weight: bold;
-			}
+// 			h4 {
+// 				margin: 0;
+// 				font-size: 14px;
+// 				font-weight: bold;
+// 			}
 
-			p {
-				margin: 0;
-				padding: 0;
-				clear: left;
-				max-width: 60%;
-				background: transparent;
-				border: 0;
-				border-radius: 0;
-				position: relative;
-				border-width: 0;
-				border-color: transparent;
-				line-height: 1.2em;
-				font-style: italic;
-				font-size: 13px;
-			}
-		}
+// 			p {
+// 				margin: 0;
+// 				padding: 0;
+// 				clear: left;
+// 				max-width: 60%;
+// 				background: transparent;
+// 				border: 0;
+// 				border-radius: 0;
+// 				position: relative;
+// 				border-width: 0;
+// 				border-color: transparent;
+// 				line-height: 1.2em;
+// 				font-style: italic;
+// 				font-size: 13px;
+// 			}
+// 		}
 
-		ul {
-			padding: 0 0 0 5%;
-			width: 60%;
-			float: right;
-		}
-	}
+// 		ul {
+// 			padding: 0 0 0 5%;
+// 			width: 60%;
+// 			float: right;
+// 		}
+// 	}
 
-	article:last-child {
-		padding-bottom: 0;
-		border-bottom-style: none;
-		border-bottom-width: 0;
-		border-bottom-color: transparent;
-	}
-}
+// 	article:last-child {
+// 		padding-bottom: 0;
+// 		border-bottom-style: none;
+// 		border-bottom-width: 0;
+// 		border-bottom-color: transparent;
+// 	}
+// }
 
 #experience {
+	margin-top: -90px;
+	h2 {
+		margin-bottom: 2em;
+	}
 	h2:after {
 		content: "j";
 	}
+}
 
+#education {
+	padding-bottom: 0.5em;
+
+	h2:after {
+		content: "e"
+	}
+}
+
+#experience, #education {
 	article {
-		padding-bottom: 2rem;
+		padding-bottom: 0;
 		margin-left: 60px;
 		border-bottom-style: solid;
 		border-bottom-width: 1px;
@@ -437,6 +470,11 @@ div.inner-wrapper {
 				padding-bottom: 0;
 			}
 		}
+
+		p {
+			margin-left: 100px;
+			margin-top: -1rem;
+		}
 	}
 
 	article:last-child {
@@ -448,7 +486,11 @@ div.inner-wrapper {
 }
 
 #hobbies {
-	padding-top: 10px;
+	// padding-top: 10px;
+
+	h2 {
+		margin-top: 1.8em;
+	}
 
 	h2:after {
 		content: "a"
@@ -468,7 +510,7 @@ div.inner-wrapper {
 			text-align: justify;
 
 			li {
-				padding-bottom: 0.5em;
+				padding-bottom: 0.2em;
 			}
 
 			li:last-child {
@@ -503,24 +545,32 @@ div.inner-wrapper {
 			}
 
 			li:nth-child(1):before {
-				content: "n"
-			}
-
-			li:nth-child(2):before {
 				content: "i"
 			}
 
-			li:nth-child(3):before {
+			li:nth-child(2):before {
 				content: "g"
 			}
 
-			li:nth-child(4):before {
-				content: "f"
-			}
+			// li:nth-child(1):before {
+			// 	content: "n"
+			// }
 
-			li:nth-child(5):before {
-				content: "r"
-			}
+			// li:nth-child(2):before {
+			// 	content: "i"
+			// }
+
+			// li:nth-child(3):before {
+			// 	content: "g"
+			// }
+
+			// li:nth-child(4):before {
+			// 	content: "f"
+			// }
+
+			// li:nth-child(5):before {
+			// 	content: "r"
+			// }
 		}
 	}
 }
